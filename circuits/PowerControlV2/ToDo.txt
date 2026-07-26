@@ -1,0 +1,36 @@
+Move OLED away from Connector
+Use GPIO for LED driver
+EEPROM swap SDA SCL
+Connect MISO of the DAC for diagnostics
+Single I2C bus all I2C1
+Move LEDs for UART2 and UART3
+Cap Array Footprints to be wider for solder
+Res array footprints wider for solder
+4.7k resistor array to drive the NPN current switch instead of 10k
+10k and 1uF x4 array for PSU inputs with 470k high resistor
+DAC to MCP4912T-E/SL
+GPIO Xtender MCP23017-E/SO for SOIC-28 footprint
+22 pF cap footprint bigger
+AIN resistors - 130k and 4.7M
+Keystone test points for firmware debug
+Keystone for all debug but not populate
+Add test points for solder checks and document solder checks
+Bigger Zener diode 12V
+Footprint for W5500 to allow no-pin solder (account for debug header and keepout for LAN and USB)
+Fill zones use thremal relief
+2.5V ref from 5V not 3.5V so can test without MCU
+5 mOhm shunt intead of current sense
+XT30 power connectors
+Fuse inline for power
+OpAmp for analog output needs IN- not to come directly from 10k but 20k to 10k needs to go to ground resistor divider
+
+*** Proof Of Concept PCB ***
+Analog Output using Op Amp
+PSU control with DAC
+Relay Control via GPIO
+
+*** Standard Discrete Components ***
+1206 Resistor array
+1/4 watt THT resistor
+??? Cap Array
+

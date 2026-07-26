@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MyFavorites")(type "KiCad")(uri "C:/git/Circuits/Libraries/MyFavorites/MyFavorites.kicad_sym")(options "")(descr ""))
+)

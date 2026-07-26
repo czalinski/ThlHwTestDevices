@@ -1,0 +1,14 @@
+POC PSU v1.1 DESIGN
+* Test point holes smaller and oval
+* P-MOSFET common Drain with 470k pull up
+
+POC Relay V1.1 DESIGN
+* LED Driver with easier solder pins
+
+ORDERS
+* Telephone Switch V2
+* POC PSU v1.1
+* POC Relay V1.1
+* POC Analog Out V1
+
+

@@ -1,0 +1,615 @@
+Info: Processing symbol 'C1:CAP_CKCL22_TDK'.
+Info: Processing symbol 'D8:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'J18:PinHeader:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'J31:PinHeader:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'JP1:PinHeader:PinHeader_2x04_P2.54mm_Vertical'.
+Info: Processing symbol 'C2:CAP_CKCL22_TDK'.
+Info: Processing symbol 'J1:1985218:TE_1985218'.
+Info: Processing symbol 'JP2:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'J2:1985218:TE_1985218'.
+Info: Processing symbol 'Q1:footprints:SOT-23_ONS-L'.
+Info: Processing symbol 'C3:Capacitors:CAPC1608X90N'.
+Info: Processing symbol 'J3:CONN_1989803_PXC'.
+Info: Processing symbol 'C4:CAP_CA0612_3P2X1P6_YAG'.
+Info: Processing symbol 'Q2:footprints:SOT-23_ONS-L'.
+Info: Processing symbol 'RN1:footprints:RESCAXS50P200X100X55-8N'.
+Info: Processing symbol 'J4:CONN_1989803_PXC'.
+Info: Processing symbol 'D9:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'RN2:footprints:RESCAXS50P200X100X55-8N'.
+Info: Processing symbol 'RN3:footprints:RESCAXS50P200X100X55-8N'.
+Info: Processing symbol 'J5:CONN_1989803_PXC'.
+Info: Processing symbol 'U20:MSOP10_UN_MCH'.
+Info: Processing symbol 'C5:CAP_CKCL22_TDK'.
+Info: Processing symbol 'J19:PinHeader:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'J6:CONN_1989803_PXC'.
+Info: Processing symbol 'U1:MyFavorites:WizNetPico'.
+Info: Processing symbol 'U2:LDI1117-05H:SOT230P700X165-4N'.
+Info: Processing symbol 'C7:footprints:CAP_YX_8X11P5_RUB'.
+Info: Processing symbol 'C8:footprints:CAPC3216X180N'.
+Info: Processing symbol 'C9:footprints:CAPC2012X70'.
+Info: Processing symbol 'C10:footprints:CAPC3216X180N'.
+Info: Processing symbol 'C11:footprints:CAPC2012X70'.
+Info: Processing symbol 'C12:footprints:CAPC2012X70'.
+Info: Processing symbol 'C13:footprints:CAPC2012X70'.
+Info: Processing symbol 'C14:footprints:CAPC2012X70'.
+Info: Processing symbol 'C15:footprints:CAPC2012X70'.
+Info: Processing symbol 'C16:footprints:CAPC2012X140N'.
+Info: Processing symbol 'C17:footprints:CAPC2012X70'.
+Info: Processing symbol 'C18:footprints:CAPC2012X70'.
+Info: Processing symbol 'C19:footprints:CAPC1005X55N'.
+Info: Processing symbol 'C20:footprints:CAPC1005X55N'.
+Info: Processing symbol 'C21:footprints:CAPC2012X70'.
+Info: Processing symbol 'C22:footprints:CAPC2012X70'.
+Info: Processing symbol 'C23:footprints:CAPC2012X70'.
+Info: Processing symbol 'CR1:Memory:SO-8_STM'.
+Info: Processing symbol 'J7:1985218:TE_1985218'.
+Info: Processing symbol 'CR2:DIODE3_DESD1CAN2SOQ-7_DIO'.
+Info: Processing symbol 'U3:MAX232IDWR:SOIC127P1030X265-16N'.
+Info: Processing symbol 'D10:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'CR3:DIODE3_DESD1CAN2SOQ-7_DIO'.
+Info: Processing symbol 'J8:PinHeader:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'U4:SOIC8_4X5_INR'.
+Info: Processing symbol 'D1:footprints:SOD-523_0P9X1P3_ONS'.
+Info: Processing symbol 'D2:footprints:SOD-523_0P9X1P3_ONS'.
+Info: Processing symbol 'D3:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'U5:SOIC8_4X5_INR'.
+Info: Processing symbol 'U6:'.
+Info: Processing symbol 'U7:DIP-18_STM'.
+Info: Processing symbol 'U8:IOExpander:SOP65P640X120-24N'.
+Info: Processing symbol 'U9:SOIC14-N_MC_MCH'.
+Info: Processing symbol 'J20:PinHeader:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'U10:SOIC14-N_MC_MCH'.
+Info: Processing symbol 'U11:HallEffect:SOICN-8_ALM_MOD'.
+Info: Processing symbol 'D11:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'U12:HallEffect:SOICN-8_ALM_MOD'.
+Info: Processing symbol 'U13:SOT-23_OT/OTY_MCH'.
+Info: Processing symbol 'D4:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'U14:footprints:RESCAV80P320X160X70-8N'.
+Info: Processing symbol 'U15:footprints:RESCAV80P320X160X70-8N'.
+Info: Processing symbol 'J9:TB005-762-02BE:CUI_TB005-762-02BE'.
+Info: Processing symbol 'U16:footprints:BO_4608X'.
+Info: Processing symbol 'J10:TB005-762-02BE:CUI_TB005-762-02BE'.
+Info: Processing symbol 'U17:footprints:RESCAF80P320X160X60-8N'.
+Info: Processing symbol 'J11:TB005-762-02BE:CUI_TB005-762-02BE'.
+Info: Processing symbol 'U18:'.
+Info: Processing symbol 'D12:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'J12:TB005-762-02BE:CUI_TB005-762-02BE'.
+Info: Processing symbol 'J30:PinHeader:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'D5:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'U19:footprints:RESCAXS80P320X160X60-8N'.
+Info: Processing symbol 'J13:TB005-762-02BE:CUI_TB005-762-02BE'.
+Info: Processing symbol 'J21:PinHeader:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'J14:1985218:TE_1985218'.
+Info: Processing symbol 'U21:SOIC8_ONS'.
+Info: Processing symbol 'J15:1985218:TE_1985218'.
+Info: Processing symbol 'U22:footprints:RESCAF80P320X160X60-8N'.
+Info: Processing symbol 'J16:PinHeader:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'U23:footprints:RESCAF80P320X160X60-8N'.
+Info: Processing symbol 'U24:footprints:RESCAF80P320X160X60-8N'.
+Info: Processing symbol 'D6:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D13:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'U25:footprints:RESCAF80P320X160X60-8N'.
+Info: Processing symbol 'U26:footprints:RESCAF80P320X160X60-8N'.
+Info: Processing symbol 'U27:footprints:RESCAV80P320X160X70-8N'.
+Info: Processing symbol 'U28:footprints:TO220AB_VIS'.
+Info: Processing symbol 'U29:footprints:TO220AB_VIS'.
+Info: Processing symbol 'J22:PinHeader:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'U30:footprints:TO220AB_VIS'.
+Info: Processing symbol 'U31:footprints:TO220AB_VIS'.
+Info: Processing symbol 'U32:footprints:BO_4608X'.
+Info: Processing symbol 'D7:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'J17:PinHeader:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'U33:footprints:BO_4608X'.
+Info: Processing symbol 'D14:footprints:LED_LTST-C170GKT'.
+Info: Total warnings: 96, errors: 21.
+Info: Processing symbol 'J23:PinHeader:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'J24:PinHeader:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'J25:PinHeader:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'J26:PinHeader:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'J27:PinHeader:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'J28:PinHeader:PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'J29:PinHeader:PinHeader_1x01_P2.54mm_Vertical'.
+Changed C1 footprint from 'footprints:CAP_CKCL22_TDK' to 'CAP_CKCL22_TDK'.
+Updated C1 fields.
+Updated U21 fields.
+Added J26 (footprint 'PinHeader:PinHeader_1x01_P2.54mm_Vertical').
+Changed C2 footprint from 'footprints:CAP_CKCL22_TDK' to 'CAP_CKCL22_TDK'.
+Updated C2 fields.
+Changed REF** reference designator to J26.
+Connected RN3 pin 2 to Net-(D11-Pad1).
+Changed J26 value from PinHeader_1x01_P2.54mm_Vertical to TP DAC_A_CONTROL.
+Changed C4 footprint from 'footprints:CAP_CA0612_3P2X1P6_YAG' to 'CAP_CA0612_3P2X1P6_YAG'.
+Updated C4 fields.
+Updated J26 symbol association from  to /038e763e-5f9f-4f41-b8fd-07e58c3070bc/7a7c9e39-2d71-4d89-9b69-ca2a343d1c5e.
+Updated J26 fields.
+Updated J26 sheetname to '/AnalogOutput/'.
+Updated J26 sheetfile to 'analog_output.kicad_sch'.
+Updated J26 footprint filters to 'Connector*:*_1x??_*'.
+Connected J26 pin 1 to Net-(CR2-G).
+Changed C5 footprint from 'footprints:CAP_CKCL22_TDK' to 'CAP_CKCL22_TDK'.
+Updated C5 fields.
+Updated J22 sheetname to '/PowerControl/'.
+Added J27 (footprint 'PinHeader:PinHeader_1x01_P2.54mm_Vertical').
+Changed REF** reference designator to J27.
+Changed CR2 footprint from 'footprints:DIODE3_DESD1CAN2SOQ-7_DIO' to 'DIODE3_DESD1CAN2SOQ-7_DIO'.
+Updated CR2 fields.
+Changed CR3 footprint from 'footprints:DIODE3_DESD1CAN2SOQ-7_DIO' to 'DIODE3_DESD1CAN2SOQ-7_DIO'.
+Updated CR3 fields.
+Added D3 (footprint 'footprints:LED_LTST-C170GKT').
+Changed REF** reference designator to D3.
+Changed D3 value from LED_LTST-C170GKT to LTST-C170GKT.
+Updated D3 symbol association from  to /de967819-79e1-4f05-bb84-3321343b1f2a.
+Updated D3 fields.
+Updated D3 sheetname to '/'.
+Updated D3 sheetfile to 'PowerControlV1.kicad_sch'.
+Add net Net-(D3-Pad1).
+Connected D3 pin 1 to Net-(D3-Pad1).
+Add net UART3_TX.
+Connected D3 pin 2 to UART3_TX.
+Added D4 (footprint 'footprints:LED_LTST-C170GKT').
+Changed REF** reference designator to D4.
+Changed D4 value from LED_LTST-C170GKT to LTST-C170GKT.
+Updated D4 symbol association from  to /acf168ae-c6ec-4789-972e-00c13325a95c.
+Updated D4 fields.
+Updated D4 sheetname to '/'.
+Updated D4 sheetfile to 'PowerControlV1.kicad_sch'.
+Add net Net-(D4-Pad1).
+Connected D4 pin 1 to Net-(D4-Pad1).
+Add net UART3_RX.
+Added D5 (footprint 'footprints:LED_LTST-C170GKT').
+Changed REF** reference designator to D5.
+Changed D5 value from LED_LTST-C170GKT to LTST-C170GKT.
+Updated D5 symbol association from  to /dca3df9f-f696-4793-96c6-7361bf25cf29.
+Updated D5 fields.
+Updated D5 sheetname to '/'.
+Updated D5 sheetfile to 'PowerControlV1.kicad_sch'.
+Add net Net-(D5-Pad1).
+Connected D5 pin 1 to Net-(D5-Pad1).
+Connected D5 pin 2 to UART4_TX.
+Added D6 (footprint 'footprints:LED_LTST-C170GKT').
+Changed REF** reference designator to D6.
+Changed D6 value from LED_LTST-C170GKT to LTST-C170GKT.
+Updated D6 symbol association from  to /3cfbec1d-8ba6-4e05-be41-f7a219455422.
+Updated D6 fields.
+Updated D6 sheetname to '/'.
+Updated D6 sheetfile to 'PowerControlV1.kicad_sch'.
+Add net Net-(D6-Pad1).
+Connected D6 pin 1 to Net-(D6-Pad1).
+Connected D6 pin 2 to UART4_RX.
+Added D7 (footprint 'footprints:LED_LTST-C170GKT').
+Changed REF** reference designator to D7.
+Changed D7 value from LED_LTST-C170GKT to LTST-C170GKT.
+Updated D7 symbol association from  to /cc216f53-943b-40b9-8bae-39bcdaf04103.
+Updated D7 fields.
+Updated D7 sheetname to '/'.
+Updated D7 sheetfile to 'PowerControlV1.kicad_sch'.
+Add net UART0_TX.
+Connected D7 pin 2 to UART0_TX.
+Add net Net-(D7-Pad1).
+Connected D7 pin 1 to Net-(D7-Pad1).
+Added D8 (footprint 'footprints:LED_LTST-C170GKT').
+Changed REF** reference designator to D8.
+Changed D8 value from LED_LTST-C170GKT to LTST-C170GKT.
+Updated D8 symbol association from  to /a835b172-955e-418c-a5c9-c3872e052534.
+Updated D8 fields.
+Updated D8 sheetname to '/'.
+Updated D8 sheetfile to 'PowerControlV1.kicad_sch'.
+Add net Net-(D8-Pad1).
+Connected D8 pin 1 to Net-(D8-Pad1).
+Add net UART0_RX.
+Connected D8 pin 2 to UART0_RX.
+Added D9 (footprint 'footprints:LED_LTST-C170GKT').
+Changed REF** reference designator to D9.
+Changed D9 value from LED_LTST-C170GKT to LTST-C170GKT.
+Updated D9 symbol association from  to /013ae9eb-821b-4b6f-bb1e-20f360da900e.
+Updated D9 fields.
+Updated D9 sheetname to '/'.
+Updated D9 sheetfile to 'PowerControlV1.kicad_sch'.
+Add net Net-(D9-Pad1).
+Connected D9 pin 1 to Net-(D9-Pad1).
+Connected D9 pin 2 to UART1_TX.
+Added D10 (footprint 'footprints:LED_LTST-C170GKT').
+Changed REF** reference designator to D10.
+Changed D10 value from LED_LTST-C170GKT to LTST-C170GKT.
+Updated D10 symbol association from  to /c92d117c-afab-4c94-929e-4654f9c6a942.
+Updated D10 fields.
+Updated D10 sheetname to '/'.
+Updated D10 sheetfile to 'PowerControlV1.kicad_sch'.
+Connected D10 pin 2 to UART1_RX.
+Add net Net-(D10-Pad1).
+Connected D10 pin 1 to Net-(D10-Pad1).
+Added D11 (footprint 'footprints:LED_LTST-C170GKT').
+Changed REF** reference designator to D11.
+Changed D11 value from LED_LTST-C170GKT to LTST-C170GKT.
+Updated D11 symbol association from  to /7be9f654-4c57-44cb-bd35-49974e751644.
+Updated D11 fields.
+Updated D11 sheetname to '/'.
+Updated D11 sheetfile to 'PowerControlV1.kicad_sch'.
+Connected D11 pin 2 to MCU_EN_1.
+Add net Net-(D11-Pad1).
+Connected D11 pin 1 to Net-(D11-Pad1).
+Added D12 (footprint 'footprints:LED_LTST-C170GKT').
+Changed REF** reference designator to D12.
+Changed D12 value from LED_LTST-C170GKT to LTST-C170GKT.
+Updated D12 symbol association from  to /337dde0b-d34d-43b9-8415-3f117566c56d.
+Updated D12 fields.
+Updated D12 sheetname to '/'.
+Updated D12 sheetfile to 'PowerControlV1.kicad_sch'.
+Add net Net-(D12-Pad1).
+Connected D12 pin 1 to Net-(D12-Pad1).
+Add net MCU_EN_2.
+Connected D12 pin 2 to MCU_EN_2.
+Added D13 (footprint 'footprints:LED_LTST-C170GKT').
+Changed REF** reference designator to D13.
+Changed D13 value from LED_LTST-C170GKT to LTST-C170GKT.
+Updated D13 symbol association from  to /ea53105f-0464-4fff-bf80-0d5fb50d9442.
+Updated D13 fields.
+Updated D13 sheetname to '/'.
+Updated D13 sheetfile to 'PowerControlV1.kicad_sch'.
+Add net /FACT_STATUS.
+Connected D13 pin 2 to /FACT_STATUS.
+Add net Net-(D13-Pad1).
+Connected D13 pin 1 to Net-(D13-Pad1).
+Added D14 (footprint 'footprints:LED_LTST-C170GKT').
+Changed REF** reference designator to D14.
+Changed D14 value from LED_LTST-C170GKT to LTST-C170GKT.
+Updated D14 symbol association from  to /afe1c4c8-1994-4665-9f41-78dafa150ee8.
+Updated D14 fields.
+Updated D14 sheetname to '/'.
+Updated D14 sheetfile to 'PowerControlV1.kicad_sch'.
+Add net unconnected-(D14-Pad2).
+Connected D14 pin 2 to unconnected-(D14-Pad2).
+Add net Net-(D14-Pad1).
+Connected D14 pin 1 to Net-(D14-Pad1).
+Added U33 (footprint 'footprints:BO_4608X').
+Changed REF** reference designator to U33.
+Changed J3 footprint from 'footprints:CONN_1989803_PXC' to 'CONN_1989803_PXC'.
+Updated J3 fields.
+Changed J4 footprint from 'footprints:CONN_1989803_PXC' to 'CONN_1989803_PXC'.
+Updated J4 fields.
+Changed J5 footprint from 'footprints:CONN_1989803_PXC' to 'CONN_1989803_PXC'.
+Updated J5 fields.
+Changed J6 footprint from 'footprints:CONN_1989803_PXC' to 'CONN_1989803_PXC'.
+Updated J6 fields.
+Changed U33 value from BO_4608X to 100kΩ.
+Added J8 (footprint 'PinHeader:PinHeader_1x04_P2.54mm_Vertical').
+Changed REF** reference designator to J8.
+Changed J8 value from PinHeader_1x04_P2.54mm_Vertical to OLED.
+Updated J8 symbol association from  to /f3b31305-ec81-4234-a302-b5267c940999.
+Updated J8 fields.
+Updated J8 sheetname to '/'.
+Updated J8 sheetfile to 'PowerControlV1.kicad_sch'.
+Updated J8 footprint filters to 'Connector*:*_1x??_*'.
+Add net I2C1_SCL.
+Connected J8 pin 2 to I2C1_SCL.
+Connected J8 pin 1 to I2C1_SCL.
+Connected J8 pin 4 to GND.
+Connected J8 pin 3 to +3.3V.
+Updated U33 symbol association from  to /9f8d3182-8ea4-465d-9067-cf92cf6ca421.
+Updated U33 sheetname to '/'.
+Updated U33 sheetfile to 'PowerControlV1.kicad_sch'.
+Connected U33 pin 1 to +3.3V.
+Connected U33 pin 2 to Net-(J16-Pin_1).
+
+
+Added J16 (footprint 'PinHeader:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to J16.
+Changed J16 value from PinHeader_1x02_P2.54mm_Vertical to FactReset.
+Updated J16 symbol association from  to /7284f919-7fdd-404b-a6a3-5a03e9e08df9.
+Updated J16 fields.
+Updated J16 sheetname to '/'.
+Updated J16 sheetfile to 'PowerControlV1.kicad_sch'.
+Updated J16 footprint filters to 'Connector*:*_1x??_*'.
+Add net Net-(J16-Pin_1).
+Connected J16 pin 1 to Net-(J16-Pin_1).
+Connected J16 pin 2 to GND.
+Added J17 (footprint 'PinHeader:PinHeader_1x01_P2.54mm_Vertical').
+Changed REF** reference designator to J17.
+Changed J17 value from PinHeader_1x01_P2.54mm_Vertical to TP 2.5V.
+Updated J17 symbol association from  to /e9fbfd38-815c-4204-bda0-8dc4fa1be361.
+Updated J17 fields.
+Updated J17 sheetname to '/'.
+Updated J17 sheetfile to 'PowerControlV1.kicad_sch'.
+Updated J17 footprint filters to 'Connector*:*_1x??_*'.
+Connected J17 pin 1 to +2V5.
+Added J18 (footprint 'PinHeader:PinHeader_1x01_P2.54mm_Vertical').
+Changed REF** reference designator to J18.
+Changed J18 value from PinHeader_1x01_P2.54mm_Vertical to TP PSU_EN_1.
+Updated J18 symbol association from  to /2167553f-545a-4422-9bd4-19f60ba696a4/d0386fb2-6f89-469b-aaf3-2ccc54d10a0d.
+Updated J18 fields.
+Updated J18 sheetname to '/PowerControl/'.
+Updated J18 sheetfile to 'power_control.kicad_sch'.
+Updated J18 footprint filters to 'Connector*:*_1x??_*'.
+Connected J18 pin 1 to PSU_EN_1.
+Added J19 (footprint 'PinHeader:PinHeader_1x01_P2.54mm_Vertical').
+Changed REF** reference designator to J19.
+Changed J19 value from PinHeader_1x01_P2.54mm_Vertical to TP PSU_EN_1.
+Updated J19 symbol association from  to /2167553f-545a-4422-9bd4-19f60ba696a4/acbdbec0-8cac-4d77-8b6b-931099285b8a.
+Updated J19 fields.
+Updated J19 sheetname to '/PowerControl/'.
+Updated J19 sheetfile to 'power_control.kicad_sch'.
+Updated J19 footprint filters to 'Connector*:*_1x??_*'.
+Connected J19 pin 1 to PSU_EN_2.
+Added J20 (footprint 'PinHeader:PinHeader_1x01_P2.54mm_Vertical').
+Changed REF** reference designator to J20.
+Changed J20 value from PinHeader_1x01_P2.54mm_Vertical to TP VSENSE_2.
+Updated J20 symbol association from  to /2167553f-545a-4422-9bd4-19f60ba696a4/426f70cc-e321-4fa9-be53-1647ccf088c7.
+Updated J20 fields.
+Updated J20 sheetname to '/PowerControl/'.
+Updated J20 sheetfile to 'power_control.kicad_sch'.
+Updated J20 footprint filters to 'Connector*:*_1x??_*'.
+Add net VSENSE_2.
+Connected J20 pin 1 to VSENSE_2.
+Added J21 (footprint 'PinHeader:PinHeader_1x01_P2.54mm_Vertical').
+Changed REF** reference designator to J21.
+Changed J21 value from PinHeader_1x01_P2.54mm_Vertical to TP VSENSE_1.
+Updated J21 symbol association from  to /2167553f-545a-4422-9bd4-19f60ba696a4/a43153ba-393d-4b54-a07a-1d1e84fb488e.
+Updated J21 fields.
+Updated J21 sheetname to '/PowerControl/'.
+Updated J21 sheetfile to 'power_control.kicad_sch'.
+Updated J21 footprint filters to 'Connector*:*_1x??_*'.
+Connected J21 pin 1 to VSENSE_1.
+Added J22 (footprint 'PinHeader:PinHeader_1x01_P2.54mm_Vertical').
+Changed REF** reference designator to J22.
+Changed J22 value from PinHeader_1x01_P2.54mm_Vertical to TP ASENSE_1.
+Updated J22 symbol association from  to /2167553f-545a-4422-9bd4-19f60ba696a4/353fc9e9-f9c2-4d54-b53d-9f3f91c4dc17.
+Changed J27 value from PinHeader_1x01_P2.54mm_Vertical to TP DAC_B_CONTROL.
+Updated J27 symbol association from  to /038e763e-5f9f-4f41-b8fd-07e58c3070bc/0045473e-7967-48ae-9357-d221399909c5.
+Updated J27 fields.
+Updated J27 sheetname to '/AnalogOutput/'.
+Updated J27 sheetfile to 'analog_output.kicad_sch'.
+Updated J27 footprint filters to 'Connector*:*_1x??_*'.
+Connected J27 pin 1 to Net-(CR3-G).
+Added J23 (footprint 'PinHeader:PinHeader_1x01_P2.54mm_Vertical').
+Added J28 (footprint 'PinHeader:PinHeader_1x01_P2.54mm_Vertical').
+Changed REF** reference designator to J28.
+Changed J28 value from PinHeader_1x01_P2.54mm_Vertical to TP DAC_A_FB.
+Updated J28 symbol association from  to /038e763e-5f9f-4f41-b8fd-07e58c3070bc/02adc4be-938c-4ce1-bd80-eb4ec58d6f17.
+Updated J28 fields.
+Updated J28 sheetname to '/AnalogOutput/'.
+Updated J28 sheetfile to 'analog_output.kicad_sch'.
+Updated J28 footprint filters to 'Connector*:*_1x??_*'.
+Connected J28 pin 1 to FB_A.
+Changed REF** reference designator to J23.
+Added J29 (footprint 'PinHeader:PinHeader_1x01_P2.54mm_Vertical').
+Changed REF** reference designator to J29.
+Changed J29 value from PinHeader_1x01_P2.54mm_Vertical to TP DAC_B_FB.
+Updated J29 symbol association from  to /038e763e-5f9f-4f41-b8fd-07e58c3070bc/3cb9cb8f-c300-46f7-a8e6-13640678168a.
+Updated J29 fields.
+Updated J29 sheetname to '/AnalogOutput/'.
+Updated J29 sheetfile to 'analog_output.kicad_sch'.
+Updated J29 footprint filters to 'Connector*:*_1x??_*'.
+Connected J29 pin 1 to FB_B.
+Updated J22 fields.
+Added J30 (footprint 'PinHeader:PinHeader_1x01_P2.54mm_Vertical').
+Changed REF** reference designator to J30.
+Changed J30 value from PinHeader_1x01_P2.54mm_Vertical to TP DAC_A_OUT.
+Updated J30 symbol association from  to /038e763e-5f9f-4f41-b8fd-07e58c3070bc/cb4ebc34-259c-4314-be78-0ffa8cc3374a.
+Updated J30 fields.
+Updated J30 sheetname to '/AnalogOutput/'.
+Updated J30 sheetfile to 'analog_output.kicad_sch'.
+Updated J30 footprint filters to 'Connector*:*_1x??_*'.
+Connected J30 pin 1 to Net-(CR2-D).
+Changed J23 value from PinHeader_1x01_P2.54mm_Vertical to TP ASENSE_2.
+Added J31 (footprint 'PinHeader:PinHeader_1x01_P2.54mm_Vertical').
+Changed REF** reference designator to J31.
+Changed J31 value from PinHeader_1x01_P2.54mm_Vertical to TP DAC_B_OUT.
+Updated J31 symbol association from  to /038e763e-5f9f-4f41-b8fd-07e58c3070bc/f95167fc-367f-4862-aaa2-d681ad96c784.
+Updated J31 fields.
+Updated J31 sheetname to '/AnalogOutput/'.
+Updated J31 sheetfile to 'analog_output.kicad_sch'.
+Updated J31 footprint filters to 'Connector*:*_1x??_*'.
+Connected J31 pin 1 to Net-(CR3-D).
+Updated J23 symbol association from  to /2167553f-545a-4422-9bd4-19f60ba696a4/877f8b2f-dc4e-4e52-942c-13205e9d35d6.
+Updated J23 fields.
+Updated J23 sheetname to '/PowerControl/'.
+Updated J23 sheetfile to 'power_control.kicad_sch'.
+Updated J23 footprint filters to 'Connector*:*_1x??_*'.
+Added RN1 (footprint 'footprints:RESCAXS50P200X100X55-8N').
+Changed REF** reference designator to RN1.
+Changed RN1 value from RESCAXS50P200X100X55-8N to YC124-JR-071KL.
+Updated RN1 symbol association from  to /c8641f3c-786d-4ed3-9a07-283278a4c24e.
+Updated RN1 fields.
+Updated RN1 sheetname to '/'.
+Updated RN1 sheetfile to 'PowerControlV1.kicad_sch'.
+Connected RN1 pin 1 to GND.
+Connected RN1 pin 5 to GND.
+Connected RN1 pin 3 to GND.
+Connected RN1 pin 7 to GND.
+Connected RN1 pin 2 to Net-(D3-Pad1).
+Connected RN1 pin 6 to Net-(D5-Pad1).
+Connected RN1 pin 4 to Net-(D4-Pad1).
+Connected RN1 pin 8 to Net-(D6-Pad1).
+Add net ASENSE_2.
+Added RN2 (footprint 'footprints:RESCAXS50P200X100X55-8N').
+Changed REF** reference designator to RN2.
+Changed RN2 value from RESCAXS50P200X100X55-8N to YC124-JR-071KL.
+Updated RN2 symbol association from  to /fb596af9-c552-482b-9356-8363ea44fb92.
+Updated RN2 fields.
+Updated RN2 sheetname to '/'.
+Updated RN2 sheetfile to 'PowerControlV1.kicad_sch'.
+Connected RN2 pin 3 to GND.
+Connected RN2 pin 8 to Net-(D10-Pad1).
+Connected RN2 pin 7 to GND.
+Connected RN2 pin 4 to Net-(D8-Pad1).
+Connected RN2 pin 5 to GND.
+Connected RN2 pin 2 to Net-(D7-Pad1).
+Connected RN2 pin 1 to GND.
+Connected RN2 pin 6 to Net-(D9-Pad1).
+Connected J23 pin 1 to ASENSE_2.
+Added RN3 (footprint 'footprints:RESCAXS50P200X100X55-8N').
+Changed REF** reference designator to RN3.
+Changed RN3 value from RESCAXS50P200X100X55-8N to YC124-JR-071KL.
+Updated RN3 symbol association from  to /9f95389b-d7fb-4c9e-81d6-5e6f8d208193.
+Updated RN3 fields.
+Updated RN3 sheetname to '/'.
+Updated RN3 sheetfile to 'PowerControlV1.kicad_sch'.
+Connected RN3 pin 6 to Net-(D13-Pad1).
+Connected RN3 pin 8 to Net-(D14-Pad1).
+Connected RN3 pin 1 to GND.
+Connected RN3 pin 5 to GND.
+Connected RN3 pin 3 to GND.
+Connected RN3 pin 4 to Net-(D12-Pad1).
+Connected RN3 pin 7 to GND.
+Updated J22 sheetfile to 'power_control.kicad_sch'.
+Added J24 (footprint 'PinHeader:PinHeader_1x01_P2.54mm_Vertical').
+Changed REF** reference designator to J24.
+Changed J24 value from PinHeader_1x01_P2.54mm_Vertical to TP DAC_A_OUT.
+Updated J24 symbol association from  to /038e763e-5f9f-4f41-b8fd-07e58c3070bc/923ef13c-9b47-4f54-a102-db414bf3644d.
+Changed U4 footprint from 'footprints:SOIC8_4X5_INR' to 'SOIC8_4X5_INR'.
+Updated U4 fields.
+Updated J24 fields.
+Changed U5 footprint from 'footprints:SOIC8_4X5_INR' to 'SOIC8_4X5_INR'.
+Updated U5 fields.
+Updated J24 sheetname to '/AnalogOutput/'.
+Updated J24 sheetfile to 'analog_output.kicad_sch'.
+Changed U7 footprint from 'footprints:DIP-18_STM' to 'DIP-18_STM'.
+Updated U7 fields.
+Updated J24 footprint filters to 'Connector*:*_1x??_*'.
+Connected J24 pin 1 to DAC_A_OUT.
+Changed U9 footprint from 'footprints:SOIC14-N_MC_MCH' to 'SOIC14-N_MC_MCH'.
+Updated U9 fields.
+Add net unconnected-(U9-ADR1-Pad10).
+Reconnected U9 pin 10 from GND to unconnected-(U9-ADR1-Pad10).
+Add net unconnected-(U9-ADR0-Pad9).
+Reconnected U9 pin 9 from GND to unconnected-(U9-ADR0-Pad9).
+Updated J22 footprint filters to 'Connector*:*_1x??_*'.
+Changed U10 footprint from 'footprints:SOIC14-N_MC_MCH' to 'SOIC14-N_MC_MCH'.
+Updated U10 fields.
+Reconnected U10 pin 9 from +5V to GND.
+Add net unconnected-(U10-ADR1-Pad10).
+Reconnected U10 pin 10 from GND to unconnected-(U10-ADR1-Pad10).
+Added J25 (footprint 'PinHeader:PinHeader_1x01_P2.54mm_Vertical').
+Changed REF** reference designator to J25.
+Changed J25 value from PinHeader_1x01_P2.54mm_Vertical to TP DAC_B_OUT.
+Updated J25 symbol association from  to /038e763e-5f9f-4f41-b8fd-07e58c3070bc/8d7c393a-b38c-4d24-a9bd-62035a3d8670.
+Updated J25 fields.
+Updated J25 sheetname to '/AnalogOutput/'.
+Updated J25 sheetfile to 'analog_output.kicad_sch'.
+Updated J25 footprint filters to 'Connector*:*_1x??_*'.
+Connected J25 pin 1 to DAC_B_OUT.
+Connected D4 pin 2 to UART3_RX.
+Changed U20 footprint from 'footprints:MSOP10_UN_MCH' to 'MSOP10_UN_MCH'.
+Updated U20 fields.
+Connected J22 pin 1 to ASENSE_1.
+Changed U21 footprint from 'footprints:SOIC8_ONS' to 'SOIC8_ONS'.
+Warning: No net found for component C1 pad 3 (no pin 3 in symbol).
+Warning: No net found for component C1 pad 4 (no pin 4 in symbol).
+Warning: No net found for component C2 pad 4 (no pin 4 in symbol).
+Warning: No net found for component C2 pad 3 (no pin 3 in symbol).
+Warning: No net found for component U32 pad 7 (no pin 7 in symbol).
+Warning: No net found for component C4 pad 7 (no pin 7 in symbol).
+Warning: No net found for component C4 pad 5 (no pin 5 in symbol).
+Warning: No net found for component C4 pad 4 (no pin 4 in symbol).
+Warning: No net found for component C4 pad 3 (no pin 3 in symbol).
+Warning: No net found for component C4 pad 6 (no pin 6 in symbol).
+Warning: No net found for component C4 pad 8 (no pin 8 in symbol).
+Warning: No net found for component C5 pad 4 (no pin 4 in symbol).
+Warning: No net found for component C5 pad 3 (no pin 3 in symbol).
+Warning: No net found for component U32 pad 8 (no pin 8 in symbol).
+Warning: No net found for component U17 pad 8 (no pin 8 in symbol).
+Warning: No net found for component U32 pad 6 (no pin 6 in symbol).
+Warning: No net found for component U15 pad 3 (no pin 3 in symbol).
+Warning: No net found for component U15 pad 5 (no pin 5 in symbol).
+Warning: No net found for component U15 pad 8 (no pin 8 in symbol).
+Warning: No net found for component U15 pad 6 (no pin 6 in symbol).
+Warning: No net found for component U16 pad 3 (no pin 3 in symbol).
+Warning: No net found for component U16 pad 7 (no pin 7 in symbol).
+Warning: No net found for component U33 pad 6 (no pin 6 in symbol).
+Warning: No net found for component U33 pad 5 (no pin 5 in symbol).
+Warning: No net found for component JP1 pad 3 (no pin 3 in symbol).
+Warning: No net found for component U17 pad 5 (no pin 5 in symbol).
+Warning: No net found for component U17 pad 7 (no pin 7 in symbol).
+Warning: No net found for component U17 pad 4 (no pin 4 in symbol).
+Warning: No net found for component U16 pad 5 (no pin 5 in symbol).
+Warning: No net found for component U17 pad 6 (no pin 6 in symbol).
+Warning: No net found for component U17 pad 3 (no pin 3 in symbol).
+Warning: No net found for component JP1 pad 4 (no pin 4 in symbol).
+Warning: No net found for component U16 pad 4 (no pin 4 in symbol).
+Warning: No net found for component U33 pad 4 (no pin 4 in symbol).
+Warning: No net found for component U19 pad 3 (no pin 3 in symbol).
+Warning: No net found for component U19 pad 7 (no pin 7 in symbol).
+Warning: No net found for component U19 pad 6 (no pin 6 in symbol).
+Warning: No net found for component U19 pad 5 (no pin 5 in symbol).
+Warning: No net found for component U19 pad 4 (no pin 4 in symbol).
+Warning: No net found for component U19 pad 8 (no pin 8 in symbol).
+Warning: No net found for component JP1 pad 7 (no pin 7 in symbol).
+Warning: No net found for component JP1 pad 8 (no pin 8 in symbol).
+Warning: No net found for component U33 pad 8 (no pin 8 in symbol).
+Warning: No net found for component U33 pad 3 (no pin 3 in symbol).
+Warning: No net found for component JP1 pad 5 (no pin 5 in symbol).
+Warning: No net found for component U33 pad 7 (no pin 7 in symbol).
+Warning: No net found for component U16 pad 8 (no pin 8 in symbol).
+Warning: No net found for component U22 pad 8 (no pin 8 in symbol).
+Warning: No net found for component U22 pad 5 (no pin 5 in symbol).
+Warning: No net found for component U22 pad 7 (no pin 7 in symbol).
+Warning: No net found for component U22 pad 6 (no pin 6 in symbol).
+Warning: No net found for component U22 pad 3 (no pin 3 in symbol).
+Warning: No net found for component U22 pad 4 (no pin 4 in symbol).
+Warning: No net found for component U16 pad 6 (no pin 6 in symbol).
+Warning: No net found for component U23 pad 6 (no pin 6 in symbol).
+Warning: No net found for component U23 pad 4 (no pin 4 in symbol).
+Warning: No net found for component U23 pad 8 (no pin 8 in symbol).
+Warning: No net found for component U23 pad 5 (no pin 5 in symbol).
+Warning: No net found for component U23 pad 3 (no pin 3 in symbol).
+Warning: No net found for component U23 pad 7 (no pin 7 in symbol).
+Warning: No net found for component U14 pad 5 (no pin 5 in symbol).
+Warning: No net found for component U24 pad 7 (no pin 7 in symbol).
+Warning: No net found for component U24 pad 4 (no pin 4 in symbol).
+Warning: No net found for component U24 pad 6 (no pin 6 in symbol).
+Warning: No net found for component U24 pad 8 (no pin 8 in symbol).
+Warning: No net found for component U24 pad 5 (no pin 5 in symbol).
+Warning: No net found for component U24 pad 3 (no pin 3 in symbol).
+Warning: No net found for component U14 pad 4 (no pin 4 in symbol).
+Warning: No net found for component U25 pad 6 (no pin 6 in symbol).
+Warning: No net found for component U25 pad 5 (no pin 5 in symbol).
+Warning: No net found for component U25 pad 8 (no pin 8 in symbol).
+Warning: No net found for component U25 pad 4 (no pin 4 in symbol).
+Warning: No net found for component U25 pad 7 (no pin 7 in symbol).
+Warning: No net found for component U25 pad 3 (no pin 3 in symbol).
+Warning: No net found for component U14 pad 3 (no pin 3 in symbol).
+Warning: No net found for component U26 pad 4 (no pin 4 in symbol).
+Warning: No net found for component U26 pad 8 (no pin 8 in symbol).
+Warning: No net found for component U26 pad 7 (no pin 7 in symbol).
+Warning: No net found for component U26 pad 5 (no pin 5 in symbol).
+Warning: No net found for component U26 pad 3 (no pin 3 in symbol).
+Warning: No net found for component U26 pad 6 (no pin 6 in symbol).
+Warning: No net found for component U14 pad 8 (no pin 8 in symbol).
+Warning: No net found for component U27 pad 5 (no pin 5 in symbol).
+Warning: No net found for component U27 pad 4 (no pin 4 in symbol).
+Warning: No net found for component U27 pad 6 (no pin 6 in symbol).
+Warning: No net found for component U27 pad 7 (no pin 7 in symbol).
+Warning: No net found for component U27 pad 3 (no pin 3 in symbol).
+Warning: No net found for component U27 pad 8 (no pin 8 in symbol).
+Warning: No net found for component U14 pad 6 (no pin 6 in symbol).
+Warning: No net found for component U14 pad 7 (no pin 7 in symbol).
+Warning: No net found for component JP1 pad 6 (no pin 6 in symbol).
+Warning: No net found for component U15 pad 4 (no pin 4 in symbol).
+Warning: No net found for component U15 pad 7 (no pin 7 in symbol).
+Warning: No net found for component U32 pad 5 (no pin 5 in symbol).
+Warning: No net found for component U32 pad 3 (no pin 3 in symbol).
+Warning: No net found for component U32 pad 4 (no pin 4 in symbol).
+Error: Cannot add C3 (footprint 'Capacitors:CAPC1608X90N' not found).
+Error: Cannot add CR1 (footprint 'Memory:SO-8_STM' not found).
+Error: Cannot add J2 (footprint '1985218:TE_1985218' not found).
+Error: Cannot add J7 (footprint '1985218:TE_1985218' not found).
+Error: Cannot add J9 (footprint 'TB005-762-02BE:CUI_TB005-762-02BE' not found).
+Error: Cannot add J10 (footprint 'TB005-762-02BE:CUI_TB005-762-02BE' not found).
+Error: Cannot add J11 (footprint 'TB005-762-02BE:CUI_TB005-762-02BE' not found).
+Error: Cannot add J12 (footprint 'TB005-762-02BE:CUI_TB005-762-02BE' not found).
+Error: Cannot add J13 (footprint 'TB005-762-02BE:CUI_TB005-762-02BE' not found).
+Error: Cannot add J14 (footprint '1985218:TE_1985218' not found).
+Error: Cannot add J15 (footprint '1985218:TE_1985218' not found).
+Error: Cannot add J1 (footprint '1985218:TE_1985218' not found).
+Error: Cannot add U18 (no footprint assigned).
+Error: Cannot add U8 (footprint 'IOExpander:SOP65P640X120-24N' not found).
+Error: Cannot add U1 (footprint 'MyFavorites:WizNetPico' not found).
+Error: Cannot add U11 (footprint 'HallEffect:SOICN-8_ALM_MOD' not found).
+Error: Cannot add U12 (footprint 'HallEffect:SOICN-8_ALM_MOD' not found).
+Error: Cannot add U2 (footprint 'LDI1117-05H:SOT230P700X165-4N' not found).
+Error: Cannot add U13 (footprint 'SOT-23_OT/OTY_MCH' not found).
+Error: Cannot add U6 (no footprint assigned).
+Error: Cannot add U3 (footprint 'MAX232IDWR:SOIC127P1030X265-16N' not found).
+
+
+Info: Total warnings: 96, errors: 21.

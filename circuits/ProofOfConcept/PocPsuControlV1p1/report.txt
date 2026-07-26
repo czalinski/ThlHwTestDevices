@@ -1,0 +1,256 @@
+Info: Processing symbol 'C1:CAP_CKCL22_TDK'.
+Info: Processing symbol 'R3:footprints:RESCAV80P320X160X70-8N'.
+Info: Processing symbol 'TP2:footprints:KEYSTONE_4954'.
+Info: Processing symbol 'R4:footprints:RESCAV80P320X160X70-8N'.
+Info: Processing symbol 'TP1:footprints:KEYSTONE_4954'.
+Info: Processing symbol 'U5:footprints:SOT-23_OT&amp;slash_OTY_MCH'.
+Info: Total warnings: 9, errors: 0.
+Info: Processing symbol 'J1:footprints:CUI_TB005-762-02BE'.
+Info: Processing symbol 'U4:footprints:WizNetPico_OnBoard'.
+Info: Processing symbol 'J2:footprints:CUI_TB005-762-02BE'.
+Info: Processing symbol 'U3:footprints:SOICN-8_ALM_MOD'.
+Info: Processing symbol 'J3:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'U2:footprints:TO220AB_VIS'.
+Info: Processing symbol 'C2:footprints:CAPC2012X70'.
+Info: Processing symbol 'Q1:footprints:SOT-23_ONS-L'.
+Info: Processing symbol 'C3:footprints:CAPC2012X70'.
+Info: Processing symbol 'R1:footprints:RESCAV80P320X160X70-8N'.
+Info: Processing symbol 'D1:footprints:SOD-123_ONS'.
+Info: Processing symbol 'D2:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'R6:footprints:RESCAV80P320X160X70-8N'.
+Info: Processing symbol 'R2:footprints:RESCAV80P320X160X70-8N'.
+Info: Processing symbol 'R5:footprints:RESCAV80P320X160X70-8N'.
+Info: Processing symbol 'U1:footprints:TO220AB_VIS'.
+Info: Processing symbol 'U6:footprints:SOIC14-N_MC_MCH'.
+Changed REF** reference designator to C1.
+Changed C1 value from 1uF 16V to CKCL22JB1C105M085AB (1uF).
+Updated C1 symbol association from  to /78cb39f8-5554-40c6-9764-abebb19cd549.
+Updated C1 fields.
+Updated C1 sheetname to '/'.
+Updated C1 sheetfile to 'PocPsuControlV1.kicad_sch'.
+Updated C1 footprint filters to 'CAP_CKCL22_TDK CAP_CKCL22_TDK-M CAP_CKCL22_TDK-L'.
+Connected C1 pin 1 to VSENSE_1.
+Connected C1 pin 4 to GND.
+Connected C1 pin 3 to GND.
+Connected C1 pin 2 to GND.
+Changed C22 reference designator to C2.
+Changed C21 reference designator to C3.
+Added D2 (footprint 'footprints:LED_LTST-C170GKT').
+Changed REF** reference designator to D2.
+Changed D2 value from LED_LTST-C170GKT to Green.
+Updated D2 symbol association from  to /7be9f654-4c57-44cb-bd35-49974e751644.
+Updated D2 fields.
+Updated D2 sheetname to '/'.
+Updated D2 sheetfile to 'PocPsuControlV1.kicad_sch'.
+Connected D2 pin 1 to GND.
+Add net Net-(D2-Pad2).
+Connected D2 pin 2 to Net-(D2-Pad2).
+Changed J9 reference designator to J1.
+Changed J10 reference designator to J2.
+Changed J2 reference designator to J3.
+Added R1 (footprint 'footprints:RESCAV80P320X160X70-8N').
+Changed REF** reference designator to R1.
+Changed R1 value from RESCAV80P320X160X70-8N to 1MΩ.
+Updated R1 symbol association from  to /67de331c-82c9-4d3e-b59e-a9c61144eee7.
+Updated R1 sheetname to '/'.
+Updated R1 sheetfile to 'PocPsuControlV1.kicad_sch'.
+Connected R1 pin 8 to GND.
+Connected R1 pin 7 to GND.
+Connected R1 pin 2 to VSENSE_1.
+Connected R1 pin 4 to GND.
+Connected R1 pin 5 to GND.
+Connected R1 pin 3 to GND.
+Connected R1 pin 1 to /PSU1_OUT.
+Connected R1 pin 6 to GND.
+Added R2 (footprint 'footprints:RESCAV80P320X160X70-8N').
+Changed REF** reference designator to R2.
+Changed R2 value from RESCAV80P320X160X70-8N to 20kΩ.
+Updated R2 symbol association from  to /1e7d2d3c-b1e8-4794-ab40-6464e6657d7f.
+Updated R2 sheetname to '/'.
+Updated R2 sheetfile to 'PocPsuControlV1.kicad_sch'.
+Connected R2 pin 2 to GND.
+Connected R2 pin 1 to VSENSE_1.
+Added R3 (footprint 'footprints:RESCAV80P320X160X70-8N').
+Changed REF** reference designator to R3.
+Changed R3 value from RESCAV80P320X160X70-8N to 10kΩ.
+Updated R3 symbol association from  to /59422e25-e2c7-44f3-8c92-e98a527473ba.
+Updated R3 sheetname to '/'.
+Updated R3 sheetfile to 'PocPsuControlV1.kicad_sch'.
+Connected R3 pin 4 to GND.
+Add net Net-(U6-CH1+).
+Connected R3 pin 2 to Net-(U6-CH1+).
+Connected R3 pin 8 to GND.
+Connected R3 pin 1 to ASENSE_1.
+Connected R3 pin 6 to VSENSE_1.
+Connected R3 pin 7 to GND.
+Add net Net-(U6-CH3+).
+Connected R3 pin 5 to Net-(U6-CH3+).
+Connected R3 pin 3 to GND.
+Added R4 (footprint 'footprints:RESCAV80P320X160X70-8N').
+Changed REF** reference designator to R4.
+Changed R4 value from RESCAV80P320X160X70-8N to 4,7kΩ.
+Updated R4 symbol association from  to /b20508b8-8e82-4b30-888f-7e16a19b4b01.
+Updated R4 sheetname to '/'.
+Updated R4 sheetfile to 'PocPsuControlV1.kicad_sch'.
+Connected R4 pin 8 to GND.
+Connected R4 pin 2 to Net-(Q1-B).
+Connected R4 pin 1 to MCU_EN_1.
+Connected R4 pin 4 to Net-(D2-Pad2).
+Connected R4 pin 3 to MCU_EN_1.
+Connected R4 pin 7 to GND.
+Connected R4 pin 6 to GND.
+Connected R4 pin 5 to GND.
+Added R5 (footprint 'footprints:RESCAV80P320X160X70-8N').
+Changed REF** reference designator to R5.
+Changed R5 value from RESCAV80P320X160X70-8N to 100kΩ.
+Updated R5 symbol association from  to /cc111944-5c3f-4f79-91ea-94537e4524dc.
+Updated R5 sheetname to '/'.
+Updated R5 sheetfile to 'PocPsuControlV1.kicad_sch'.
+Connected R5 pin 8 to GND.
+Connected R5 pin 1 to Net-(Q1-B).
+Connected R5 pin 5 to GND.
+Connected R5 pin 7 to GND.
+Connected R5 pin 2 to GND.
+Connected R5 pin 4 to GND.
+Connected R5 pin 3 to GND.
+Connected R5 pin 6 to GND.
+Added R6 (footprint 'footprints:RESCAV80P320X160X70-8N').
+Changed REF** reference designator to R6.
+Changed R6 value from RESCAV80P320X160X70-8N to 20kΩ.
+Updated R6 symbol association from  to /a5070db3-196a-43c8-af7f-08c0f25b42d4.
+Updated R6 sheetname to '/'.
+Updated R6 sheetfile to 'PocPsuControlV1.kicad_sch'.
+Connected R6 pin 1 to GND.
+Connected R6 pin 4 to GND.
+Connected R6 pin 2 to GND.
+Connected R6 pin 3 to GND.
+Connected R6 pin 6 to GND.
+Connected R6 pin 5 to GND.
+Changed U28 reference designator to U1.
+Changed U29 reference designator to U2.
+Add net Net-(U2-D).
+Reconnected U2 pin 2 from Net-(U11-IP+) to Net-(U2-D).
+Changed U11 reference designator to U3.
+Reconnected U3 pin 1 from Net-(U11-IP+) to Net-(U2-D).
+Changed U3 reference designator to U4.
+Add net unconnected-(U4-GP21-Pad27).
+Reconnected U4 pin 27 from unconnected-(U3-GP21-Pad27) to unconnected-(U4-GP21-Pad27).
+Add net unconnected-(U4-GP22-Pad29).
+Reconnected U4 pin 29 from unconnected-(U3-GP22-Pad29) to unconnected-(U4-GP22-Pad29).
+Add net unconnected-(U4-GP0/UART0_TX-Pad1).
+Reconnected U4 pin 1 from unconnected-(U3-GP0/UART0_TX-Pad1) to unconnected-(U4-GP0/UART0_TX-Pad1).
+Add net unconnected-(U4-SPI0_MOSI/GP19-Pad25).
+Reconnected U4 pin 25 from unconnected-(U3-SPI0_MOSI/GP19-Pad25) to unconnected-(U4-SPI0_MOSI/GP19-Pad25).
+Add net unconnected-(U4-SWDIO-Pad41).
+Reconnected U4 pin 41 from unconnected-(U3-SWDIO-Pad41) to unconnected-(U4-SWDIO-Pad41).
+Add net unconnected-(U4-GP7-Pad10).
+Reconnected U4 pin 10 from unconnected-(U3-GP7-Pad10) to unconnected-(U4-GP7-Pad10).
+Add net unconnected-(U4-GP15-Pad20).
+Reconnected U4 pin 20 from unconnected-(U3-GP15-Pad20) to unconnected-(U4-GP15-Pad20).
+Add net unconnected-(U4-GP9/I2C0_SCL-Pad12).
+Reconnected U4 pin 12 from unconnected-(U3-GP9/I2C0_SCL-Pad12) to unconnected-(U4-GP9/I2C0_SCL-Pad12).
+Add net unconnected-(U4-SPI0_SCK/GP18-Pad24).
+Reconnected U4 pin 24 from unconnected-(U3-SPI0_SCK/GP18-Pad24) to unconnected-(U4-SPI0_SCK/GP18-Pad24).
+Add net unconnected-(U4-SPI0_CS/GP17-Pad22).
+Reconnected U4 pin 22 from unconnected-(U3-SPI0_CS/GP17-Pad22) to unconnected-(U4-SPI0_CS/GP17-Pad22).
+Add net unconnected-(U4-SPI0_MISO/GP16-Pad21).
+Reconnected U4 pin 21 from unconnected-(U3-SPI0_MISO/GP16-Pad21) to unconnected-(U4-SPI0_MISO/GP16-Pad21).
+Add net unconnected-(U4-SWCLK-Pad43).
+Reconnected U4 pin 43 from unconnected-(U3-SWCLK-Pad43) to unconnected-(U4-SWCLK-Pad43).
+Add net unconnected-(U4-GP13/SPI1_CS-Pad17).
+Reconnected U4 pin 17 from unconnected-(U3-GP13/SPI1_CS-Pad17) to unconnected-(U4-GP13/SPI1_CS-Pad17).
+Add net unconnected-(U4-GP20-Pad26).
+Reconnected U4 pin 26 from unconnected-(U3-GP20-Pad26) to unconnected-(U4-GP20-Pad26).
+Add net unconnected-(U4-GP14-Pad19).
+Reconnected U4 pin 19 from unconnected-(U3-GP14-Pad19) to unconnected-(U4-GP14-Pad19).
+Add net unconnected-(U4-GP5/UART1_RX-Pad7).
+Reconnected U4 pin 7 from unconnected-(U3-GP5/UART1_RX-Pad7) to unconnected-(U4-GP5/UART1_RX-Pad7).
+Add net unconnected-(U4-GP4/UART1_TX-Pad6).
+Reconnected U4 pin 6 from unconnected-(U3-GP4/UART1_TX-Pad6) to unconnected-(U4-GP4/UART1_TX-Pad6).
+Add net unconnected-(U4-ADC2/GP28-Pad34).
+Reconnected U4 pin 34 from unconnected-(U3-ADC2/GP28-Pad34) to unconnected-(U4-ADC2/GP28-Pad34).
+Add net unconnected-(U4-RUN-Pad30).
+Reconnected U4 pin 30 from unconnected-(U3-RUN-Pad30) to unconnected-(U4-RUN-Pad30).
+Add net unconnected-(U4-GP6-Pad9).
+Reconnected U4 pin 9 from unconnected-(U3-GP6-Pad9) to unconnected-(U4-GP6-Pad9).
+Add net unconnected-(U4-3V3_EN-Pad37).
+Reconnected U4 pin 37 from unconnected-(U3-3V3_EN-Pad37) to unconnected-(U4-3V3_EN-Pad37).
+Add net unconnected-(U4-GP12/SPI1_MISO-Pad16).
+Reconnected U4 pin 16 from unconnected-(U3-GP12/SPI1_MISO-Pad16) to unconnected-(U4-GP12/SPI1_MISO-Pad16).
+Add net unconnected-(U4-ADC0/GP26-Pad31).
+Reconnected U4 pin 31 from unconnected-(U3-ADC0/GP26-Pad31) to unconnected-(U4-ADC0/GP26-Pad31).
+Add net unconnected-(U4-GP1/UART0_RX-Pad2).
+Reconnected U4 pin 2 from unconnected-(U3-GP1/UART0_RX-Pad2) to unconnected-(U4-GP1/UART0_RX-Pad2).
+Add net unconnected-(U4-VBUS-Pad40).
+Add net unconnected-(U4-ADC3/ADC_VREF-Pad35).
+Reconnected U4 pin 35 from unconnected-(U3-ADC3/ADC_VREF-Pad35) to unconnected-(U4-ADC3/ADC_VREF-Pad35).
+Add net unconnected-(U4-GP10/SPI1_SCK-Pad14).
+Reconnected U4 pin 14 from unconnected-(U3-GP10/SPI1_SCK-Pad14) to unconnected-(U4-GP10/SPI1_SCK-Pad14).
+Add net unconnected-(U4-GP11/SPI1_MOSI-Pad15).
+Reconnected U4 pin 15 from unconnected-(U3-GP11/SPI1_MOSI-Pad15) to unconnected-(U4-GP11/SPI1_MOSI-Pad15).
+Add net unconnected-(U4-GP8/I2C0_SDA-Pad11).
+Reconnected U4 pin 11 from unconnected-(U3-GP8/I2C0_SDA-Pad11) to unconnected-(U4-GP8/I2C0_SDA-Pad11).
+Changed U13 reference designator to U5.
+Added C1 (footprint 'CAP_CKCL22_TDK').
+Changed U1 reference designator to U6.
+Add net unconnected-(U6-CH4--Pad14).
+Reconnected U6 pin 14 from unconnected-(U1-CH4--Pad14) to unconnected-(U6-CH4--Pad14).
+Reconnected U6 pin 1 from Net-(U1-CH1+) to Net-(U6-CH1+).
+Reconnected U6 pin 11 from unconnected-(U1-CH3+-Pad11) to Net-(U6-CH3+).
+Add net unconnected-(U6-CH4+-Pad13).
+Reconnected U6 pin 13 from unconnected-(U1-CH4+-Pad13) to unconnected-(U6-CH4+-Pad13).
+Add net unconnected-(U6-CH2+-Pad3).
+Reconnected U6 pin 3 from Net-(U1-CH2+) to unconnected-(U6-CH2+-Pad3).
+Reconnected U6 pin 12 from unconnected-(U1-CH3--Pad12) to GND.
+Removed unused net ASENSE_2.
+Removed unused net Net-(U1-CH1+).
+Removed unused net Net-(U1-CH2+).
+Removed unused net Net-(U11-IP+).
+Removed unused net unconnected-(U1-CH3+-Pad11).
+Removed unused net unconnected-(U1-CH3--Pad12).
+Removed unused net unconnected-(U1-CH4+-Pad13).
+Removed unused net unconnected-(U1-CH4--Pad14).
+Reconnected U4 pin 40 from unconnected-(U3-VBUS-Pad40) to unconnected-(U4-VBUS-Pad40).
+Removed unused net unconnected-(U3-ADC0{slash}GP26-Pad31).
+Removed unused net unconnected-(U3-ADC2{slash}GP28-Pad34).
+Removed unused net unconnected-(U3-ADC3{slash}ADC_VREF-Pad35).
+Removed unused net unconnected-(U3-GP0{slash}UART0_TX-Pad1).
+Removed unused net unconnected-(U3-GP10{slash}SPI1_SCK-Pad14).
+Removed unused net unconnected-(U3-GP11{slash}SPI1_MOSI-Pad15).
+Removed unused net unconnected-(U3-GP12{slash}SPI1_MISO-Pad16).
+Removed unused net unconnected-(U3-GP13{slash}SPI1_CS-Pad17).
+Removed unused net unconnected-(U3-GP14-Pad19).
+Removed unused net unconnected-(U3-GP15-Pad20).
+Removed unused net unconnected-(U3-GP1{slash}UART0_RX-Pad2).
+Removed unused net unconnected-(U3-GP20-Pad26).
+Removed unused net unconnected-(U3-GP21-Pad27).
+Removed unused net unconnected-(U3-GP22-Pad29).
+Removed unused net unconnected-(U3-GP4{slash}UART1_TX-Pad6).
+Removed unused net unconnected-(U3-GP5{slash}UART1_RX-Pad7).
+Removed unused net unconnected-(U3-GP6-Pad9).
+Removed unused net unconnected-(U3-GP7-Pad10).
+Removed unused net unconnected-(U3-GP8{slash}I2C0_SDA-Pad11).
+Removed unused net unconnected-(U3-GP9{slash}I2C0_SCL-Pad12).
+Removed unused net unconnected-(U3-RUN-Pad30).
+Removed unused net unconnected-(U3-SPI0_CS{slash}GP17-Pad22).
+Removed unused net unconnected-(U3-SPI0_MISO{slash}GP16-Pad21).
+Removed unused net unconnected-(U3-SPI0_MOSI{slash}GP19-Pad25).
+Removed unused net unconnected-(U3-SPI0_SCK{slash}GP18-Pad24).
+Removed unused net unconnected-(U3-SWCLK-Pad43).
+Removed unused net unconnected-(U3-SWDIO-Pad41).
+Removed unused net unconnected-(U3-VBUS-Pad40).
+
+
+Removed unused net unconnected-(U3-3V3_EN-Pad37).
+Warning: No net found for component R2 pad 4 (no pin 4 in symbol).
+Warning: No net found for component R6 pad 8 (no pin 8 in symbol).
+Warning: No net found for component R2 pad 6 (no pin 6 in symbol).
+Warning: No net found for component R2 pad 7 (no pin 7 in symbol).
+Warning: Via connected to unknown net ().
+Warning: No net found for component R6 pad 7 (no pin 7 in symbol).
+Warning: No net found for component R2 pad 3 (no pin 3 in symbol).
+Warning: No net found for component R2 pad 8 (no pin 8 in symbol).
+Warning: No net found for component R2 pad 5 (no pin 5 in symbol).
+
+
+Info: Total warnings: 9, errors: 0.

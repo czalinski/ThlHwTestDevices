@@ -1,0 +1,101 @@
+# ───────────────────────────────
+# KiCad Project Junk / Generated
+# ───────────────────────────────
+
+# Backup files
+*.bak
+*.kicad_pcb-bak
+*.sch-bak
+*.kicad_sch-bak
+*.old
+*.tmp
+
+# Autosave / Recovery
+*.autosave
+*.backup
+*.restore
+
+# KiCad user history
+*.history
+
+# KiCad cache & temp
+*-cache.lib
+*-cache.kicad_sym
+*-cache.kicad_mod
+*.kicad_prl
+*.kicad_dru
+*.kicad_wks
+*.kicad_ssh
+*.kicad_3dshapes.tmp
+*.kicad_mod.tmp
+
+# KiCad build artifacts
+*.net
+*.xml
+*.cmp
+*.dsn
+*.gbr
+*.gtl
+*.gbl
+*.gts
+*.gbs
+*.gto
+*.gbo
+*.gml
+*.drl
+*.pos
+*.rpt
+*.zip
+
+# Plot / export output
+**/plots/**
+**/plot/**
+*.pdf
+*.svg
+*.step
+*.stp
+*.iges
+*.igs
+
+# Simulation junk
+*.raw
+*.log
+*.cir
+*.out
+
+# 3D model cache
+*.3dshapes-cache
+*.step-cache
+
+# Gerber folders (if you export to a directory)
+gerber/
+fabrication/
+outputs/
+
+# ───────────────────────────────
+# Common OS / Editor Noise
+# ───────────────────────────────
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Python virtual envs
+venv/
+.env/
+
+# ───────────────────────────────
+# KiCad Project Keepers (DO NOT IGNORE)
+# ───────────────────────────────
+# These are here as reminders:
+# *.kicad_pcb
+# *.kicad_sch
+# *.kicad_pro
+# *.kicad_sym
+# *.kicad_mod
+# *.pretty/
