@@ -46,6 +46,8 @@
 *.pos
 *.rpt
 *.zip
+*.kicad_pcb.lck
+*.kicad_sch.lck
 
 # Plot / export output
 **/plots/**

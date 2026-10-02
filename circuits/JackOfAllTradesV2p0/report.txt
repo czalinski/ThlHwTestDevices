@@ -1,0 +1,346 @@
+Info: Processing symbol 'C1:footprints:CAP_CA0612_3P2X1P6_YAG'.
+Info: Processing symbol 'D20:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'C2:footprints:CAPC3216X90N'.
+Info: Processing symbol 'C3:footprints:CAPC1608X90N'.
+Info: Processing symbol 'C4:footprints:CAP_CA0612_3P2X1P6_YAG'.
+Info: Processing symbol 'C5:footprints:CAP_CA0612_3P2X1P6_YAG'.
+Info: Processing symbol 'D21:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'C7:footprints:CAP_YX_8X11P5_RUB'.
+Info: Processing symbol 'D22:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D23:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'C8:footprints:CAP_YX_8X11P5_RUB'.
+Info: Processing symbol 'C10:footprints:CAPC2012X70'.
+Info: Processing symbol 'D24:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'C11:footprints:CAPC2012X70'.
+Info: Processing symbol 'C12:footprints:CAPC2012X70'.
+Info: Processing symbol 'C13:footprints:CAPC2012X70'.
+Info: Processing symbol 'D25:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'C14:footprints:CAPC2012X70'.
+Info: Processing symbol 'D26:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'C15:footprints:CAPC2012X70'.
+Info: Processing symbol 'C16:footprints:CAPC3216X95N'.
+Info: Processing symbol 'C17:footprints:CAPC2012X70'.
+Info: Processing symbol 'C18:footprints:CAPC2012X70'.
+Info: Processing symbol 'C19:footprints:CAPC2012X70'.
+Info: Processing symbol 'D27:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'C20:footprints:CAPC2012X70'.
+Info: Processing symbol 'D28:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'C21:footprints:CAPC3216X95N'.
+Info: Processing symbol 'C22:footprints:CAPC2012X70'.
+Info: Processing symbol 'C23:footprints:CAPC2012X70'.
+Info: Processing symbol 'C24:footprints:CAPC2012X70'.
+Info: Processing symbol 'C25:footprints:CAPC3216X95N'.
+Info: Processing symbol 'C26:footprints:CAPC2012X70'.
+Info: Processing symbol 'C27:footprints:CAPC2012X70'.
+Info: Processing symbol 'C28:footprints:CAPC3216X95N'.
+Info: Processing symbol 'C29:footprints:CAPC2012X70'.
+Info: Processing symbol 'D29:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'C30:footprints:CAPC2012X70'.
+Info: Processing symbol 'D30:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'C31:CL31A106KBHNNNE:CAPC3216X180N'.
+Info: Processing symbol 'R3:footprints:RES_1206'.
+Info: Processing symbol 'C32:CL31A106KBHNNNE:CAPC3216X180N'.
+Info: Processing symbol 'D31:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'C33:R18'.
+Info: Processing symbol 'R2:footprints:RESCAV80P320X160X70-8N'.
+Info: Processing symbol 'D32:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'C34:1206B103K500CT:CAPC3216X90N'.
+Info: Processing symbol 'R1:footprints:RESCAV80P320X160X70-8N'.
+Info: Processing symbol 'C35:1206B103K500CT:CAPC3216X90N'.
+Info: Processing symbol 'Q1:AOD407'.
+Info: Processing symbol 'C36:footprints:CAP_CML_1206_.3-8200PF_STP'.
+Info: Processing symbol 'D33:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'C37:footprints:CAP_CML_1206_.3-8200PF_STP'.
+Info: Processing symbol 'E1:HI1206P121R-10:FB_HI1206P121R-10'.
+Info: Processing symbol 'C38:CL10A475KP8NNNC:CAPC1608X90N'.
+Info: Processing symbol 'PS1:footprints:CONV_TPSM84338RCJR'.
+Info: Processing symbol 'C39:footprints:CAPC3216X95N'.
+Info: Processing symbol 'JP3:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'C40:footprints:CAPC2012X70'.
+Info: Processing symbol 'F1:0ZRE0200FF1A:FUSRR1020W81L2490T610H3380'.
+Info: Processing symbol 'C41:footprints:CAPC3216X95N'.
+Info: Processing symbol 'JP2:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'C42:footprints:CAPC2012X70'.
+Info: Processing symbol 'FL1:footprints:WCM 3216F2SF-900T04-1206'.
+Info: Processing symbol 'C43:footprints:CAPC2012X70'.
+Info: Processing symbol 'J7:footprints:TE_1985218'.
+Info: Processing symbol 'C44:footprints:CAPC2012X70'.
+Info: Processing symbol 'J8:PinHeader:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'C45:footprints:CAPC3216X95N'.
+Info: Processing symbol 'FL5:footprints:WCM 3216F2SF-900T04-1206'.
+Info: Processing symbol 'C46:footprints:CAPC2012X70'.
+Info: Processing symbol 'J13:footprints:CUI_TB005-762-02BE'.
+Info: Processing symbol 'C47:footprints:CAPC2012X70'.
+Info: Processing symbol 'FL2:footprints:WCM 3216F2SF-900T04-1206'.
+Info: Processing symbol 'C48:footprints:CAPC3216X95N'.
+Info: Processing symbol 'FL6:footprints:WCM 3216F2SF-900T04-1206'.
+Info: Processing symbol 'C49:footprints:CAPC2012X70'.
+Info: Processing symbol 'J14:footprints:CONN_1989803_PXC'.
+Info: Processing symbol 'C50:footprints:CAPC2012X70'.
+Info: Processing symbol 'J1:footprints:JD00004NL'.
+Info: Processing symbol 'CR2:footprints:SOT666_ESDA25_STM'.
+Info: Processing symbol 'J15:footprints:CUI_TB005-762-02BE'.
+Info: Processing symbol 'FL3:footprints:WCM 3216F2SF-900T04-1206'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal'.
+Info: Processing symbol 'JP6:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'CR3:footprints:SOT666_ESDA25_STM'.
+Info: Processing symbol 'J16:PinHeader:PinHeader_1x02_P2.54mm_Horizontal'.
+Info: Processing symbol 'CR4:footprints:SO-16_STM'.
+Info: Processing symbol 'CR5:footprints:SOT666_ESDA25_STM'.
+Info: Processing symbol 'J3:footprints:CONN_1989803_PXC'.
+Info: Processing symbol 'D2:footprints:SOT95P237X112-3N'.
+Info: Processing symbol 'J4:footprints:CONN_1989803_PXC'.
+Info: Processing symbol 'D3:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D4:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D5:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D6:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D7:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D8:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D9:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D10:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D11:footprints:SOT95P237X112-3N'.
+Info: Processing symbol 'FL4:footprints:WCM 3216F2SF-900T04-1206'.
+Info: Processing symbol 'D13:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D14:DIOM5436X265N'.
+Info: Processing symbol 'JP5:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'J5:footprints:CONN_1989803_PXC'.
+Info: Processing symbol 'D15:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'J6:footprints:CONN_1989803_PXC'.
+Info: Processing symbol 'D16:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D17:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D18:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D19:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'R4:footprints:RES_1206'.
+Info: Processing symbol 'R6:footprints:RESCAV80P320X160X70-8N'.
+Info: Processing symbol 'R7:footprints:RESCAV80P320X160X70-8N'.
+Info: Processing symbol 'R8:footprints:RESCAV80P320X160X70-8N'.
+Info: Processing symbol 'R9:footprints:RES_1206'.
+Info: Processing symbol 'R10:footprints:RES_1206'.
+Info: Processing symbol 'R12:footprints:RES_1206'.
+Info: Processing symbol 'R13:footprints:RES_1206'.
+Info: Processing symbol 'R14:footprints:RESCAV80P320X160X70-8N'.
+Info: Processing symbol 'R15:footprints:RES_1206'.
+Info: Processing symbol 'R16:footprints:RES_1206'.
+Info: Processing symbol 'R17:footprints:RES_1206'.
+Info: Processing symbol 'R18:footprints:RES_1206'.
+Info: Processing symbol 'R19:footprints:RESCAV80P320X160X70-8N'.
+Info: Processing symbol 'R20:footprints:RES_1206'.
+Info: Processing symbol 'R21:footprints:RES_1206'.
+Info: Processing symbol 'R22:footprints:RES_1206'.
+Info: Processing symbol 'R23:footprints:RESCAV80P320X160X70-8N'.
+Info: Processing symbol 'RN1:footprints:RESCAXS50P200X100X55-8N'.
+Info: Processing symbol 'RN2:footprints:RESCAXS50P200X100X55-8N'.
+Info: Processing symbol 'RN3:footprints:RESCAXS50P200X100X55-8N'.
+Info: Processing symbol 'RN5:footprints:RESCAXS50P200X100X55-8N'.
+Info: Processing symbol 'RN6:footprints:RESCAXS50P200X100X55-8N'.
+Info: Processing symbol 'RN7:footprints:RESCAXS50P200X100X55-8N'.
+Info: Processing symbol 'RN8:footprints:RESCAXS50P200X100X55-8N'.
+Info: Processing symbol 'U1:footprints:3-SIP'.
+Info: Processing symbol 'U2:footprints:TQFP64_PT_MCH'.
+Info: Processing symbol 'U6:footprints:ASSMANN_A-DS_09_A_KG-T2S'.
+Info: Processing symbol 'U3:Converter_DCDC:Converter_DCDC_TRACO_TEA1-xxxxHI_THT'.
+Info: Processing symbol 'U4:Converter_DCDC:Converter_DCDC_TRACO_TEA1-xxxxHI_THT'.
+Info: Processing symbol 'U5:Package_QFP:LQFP-48_7x7mm_P0.5mm'.
+Info: Processing symbol 'U7:Package_SO:SOIC-18W_7.5x11.6mm_P1.27mm'.
+Info: Processing symbol 'U8:footprints:SOIC127P1030X265-28N'.
+Info: Processing symbol 'U9:footprints:SOIC14-N_MC_MCH'.
+Info: Processing symbol 'U10:footprints:SOBWSOP-16-A_TPK'.
+Info: Processing symbol 'U11:footprints:SOBWSOP-16-A_TPK'.
+Info: Processing symbol 'U12:footprints:SOD-123_ONS'.
+Info: Processing symbol 'U13:footprints:SOT-23_OT&amp;slash_OTY_MCH'.
+Info: Processing symbol 'U14:footprints:SOIC127P1150X280-8N'.
+Info: Processing symbol 'U15:footprints:SOIC127P1150X280-8N'.
+Info: Processing symbol 'U16:footprints:SOIC14-N_MC_MCH'.
+Info: Processing symbol 'U17:Converter_DCDC:Converter_DCDC_TRACO_TEA1-xxxxHI_THT'.
+Info: Processing symbol 'U18:footprints:ASSMANN_A-DS_09_A_KG-T2S'.
+Info: Processing symbol 'U19:footprints:ASSMANN_A-DS_09_A_KG-T2S'.
+Info: Processing symbol 'U20:footprints:ASSMANN_A-DS_09_A_KG-T2S'.
+Info: Processing symbol 'U21:footprints:SOIC8_ONS'.
+Info: Processing symbol 'U22:Converter_DCDC:Converter_DCDC_TRACO_TEA1-xxxxHI_THT'.
+Info: Processing symbol 'U24:footprints:ASSMANN_A-DS_09_A_KG-T2S'.
+Info: Processing symbol 'U25:footprints:ASSMANN_A-DS_09_A_KG-T2S'.
+Reconnect FL4 pin 3 from /RS-485A/Z to Net-(U19-Z).
+Add net Net-(U19-Y).
+Reconnect FL4 pin 2 from /RS-485A/Y to Net-(U19-Y).
+Add FL5 (footprint 'footprints:WCM 3216F2SF-900T04-1206').
+Add FL6 (footprint 'footprints:WCM 3216F2SF-900T04-1206').
+Add J1 (footprint 'footprints:JD00004NL').
+Add J2 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal').
+Change J13 value from 12-28V Power In to 12-36V Power In.
+Add net +VDC.
+Reconnect J13 pin 1 from +12V to +VDC.
+Add R19 (footprint 'footprints:RESCAV80P320X160X70-8N').
+Reconnect PS1 pin 6 from +12V to VDD.
+Reconnect PS1 pin 7 from +12V to VDD.
+Reconnect PS1 pin 1 from +12V to VDD.
+Add Q1 (footprint 'AOD407').
+Update C1 symbol association from /87588e1a-04ba-4a52-883d-6b556de3d01f/e8fc9820-609f-4109-9015-0a5811f1efd3 to /87588e1a-04ba-4a52-883d-6b556de3d01f/c50b8c0e-6fac-4d93-a061-870279a3e0c0.
+Add C5 (footprint 'footprints:CAP_CA0612_3P2X1P6_YAG').
+Add R6 (footprint 'footprints:RESCAV80P320X160X70-8N').
+Add net VDD.
+Reconnect C7 pin 1 from +12V to VDD.
+Update R8 symbol association from /87588e1a-04ba-4a52-883d-6b556de3d01f/f8583e04-c9cc-485c-8193-c54b09a1cbb0 to /87588e1a-04ba-4a52-883d-6b556de3d01f/e3b4667d-971e-4f9d-ada3-cfb227e72524.
+Reconnect C10 pin 2 from +12V to VDD.
+Add C13 (footprint 'footprints:CAPC2012X70').
+Add C14 (footprint 'footprints:CAPC2012X70').
+Add C19 (footprint 'footprints:CAPC2012X70').
+Add C20 (footprint 'footprints:CAPC2012X70').
+Add C29 (footprint 'footprints:CAPC2012X70').
+Add C30 (footprint 'footprints:CAPC2012X70').
+Reconnect CR2 pin 5 from GND to Net-(U18-GND).
+Add C33 (footprint 'R18').
+Add C36 (footprint 'footprints:CAP_CML_1206_.3-8200PF_STP').
+Add C37 (footprint 'footprints:CAP_CML_1206_.3-8200PF_STP').
+Add R20 (footprint 'footprints:RES_1206').
+Add C39 (footprint 'footprints:CAPC3216X95N').
+Add R21 (footprint 'footprints:RES_1206').
+Add C40 (footprint 'footprints:CAPC2012X70').
+Add R22 (footprint 'footprints:RES_1206').
+Add C41 (footprint 'footprints:CAPC3216X95N').
+Add R23 (footprint 'footprints:RESCAV80P320X160X70-8N').
+Add C42 (footprint 'footprints:CAPC2012X70').
+Add C43 (footprint 'footprints:CAPC2012X70').
+Add C44 (footprint 'footprints:CAPC2012X70').
+Add net unconnected-(RN3-Pad8).
+Reconnect RN3 pin 8 from Net-(D13-Pad2) to unconnected-(RN3-Pad8).
+Reconnect RN3 pin 2 from unconnected-(RN3-Pad2) to Net-(D13-Pad2).
+Add net unconnected-(RN3-Pad7).
+Reconnect RN3 pin 7 from FACT_STATUS to unconnected-(RN3-Pad7).
+Add net Net-(U2-AN13/CVD13/C3IN2-/FLT6/PMA10/RE13).
+Reconnect RN3 pin 1 from unconnected-(RN3-Pad1) to Net-(U2-AN13/CVD13/C3IN2-/FLT6/PMA10/RE13).
+Add C45 (footprint 'footprints:CAPC3216X95N').
+Add C46 (footprint 'footprints:CAPC2012X70').
+Add C47 (footprint 'footprints:CAPC2012X70').
+Add C48 (footprint 'footprints:CAPC3216X95N').
+Add C49 (footprint 'footprints:CAPC2012X70').
+Add net Net-(U1-VO).
+Reconnect U1 pin 3 from unconnected-(U1-VO-Pad3) to Net-(U1-VO).
+Reconnect U1 pin 1 from unconnected-(U1-VI-Pad1) to VDD.
+Reconnect U1 pin 2 from unconnected-(U1-GND-Pad2) to GND.
+Add C50 (footprint 'footprints:CAPC2012X70').
+Reconnect U2 pin 32 from unconnected-(U2-FLT15/RPB4/PMA8/RB4-Pad32) to UART1_RX.
+Reconnect U2 pin 57 from unconnected-(U2-VDD-Pad57) to +3.3V.
+Add net SPI2_SCK.
+Reconnect U2 pin 44 from unconnected-(U2-PGC2/RPB6/SCK2/PMA15/RB6-Pad44) to SPI2_SCK.
+Reconnect U2 pin 28 from unconnected-(U2-AN13/CVD13/C3IN2-/FLT6/PMA10/RE13-Pad28) to Net-(U2-AN13/CVD13/C3IN2-/FLT6/PMA10/RE13).
+Reconnect U2 pin 49 from unconnected-(U2-TMS/OA5IN-/AN27/CVD27/C5IN1-/RPB9/RB9-Pad49) to SPI1_MOSI.
+Reconnect U2 pin 26 from unconnected-(U2-VDD-Pad26) to +3.3V.
+Reconnect U2 pin 64 from unconnected-(U2-TDO/PWM4H/PMD4/RA10-Pad64) to UART2_TX.
+Add net ETH_RST.
+Reconnect U2 pin 45 from unconnected-(U2-DAC2/AN48/CVD48/RPC10/PMA14/PMCS/RC10-Pad45) to ETH_RST.
+Add net I2C2_SDA.
+Reconnect U2 pin 4 from unconnected-(U2-AN19/CVD19/RPG6/PMA5/RG6-Pad4) to I2C2_SDA.
+Add net SPI2_MOSI.
+Reconnect U2 pin 40 from unconnected-(U2-OSCO/CLKO/RPC15/RC15-Pad40) to SPI2_MOSI.
+Add net CANA_TX.
+Reconnect U2 pin 54 from unconnected-(U2-TRD3/RPD6/PWM12L/RD6-Pad54) to CANA_TX.
+Add net Net-(U6-GND).
+Reconnect U2 pin 17 from unconnected-(U2-PGC1/OA1IN+/AN4/C1IN1+/C1IN3-/C2IN3-/RPB2/RB2-Pad17) to ICSPCLK.
+Reconnect U2 pin 25 from unconnected-(U2-VSS-Pad25) to GND.
+Reconnect U2 pin 3 from unconnected-(U2-RPB15/PWM7H/PWM1L/PMD7/RB15-Pad3) to I2C1_SCL.
+Reconnect U2 pin 10 from unconnected-(U2-VDD-Pad10) to +3.3V.
+Reconnect U2 pin 29 from unconnected-(U2-AN14/CVD14/RPE14/FLT7/PMA1/RE14-Pad29) to UART0_TX.
+Reconnect U2 pin 30 from unconnected-(U2-AN15/CVD15/RPE15/FLT8/PMA0/RE15-Pad30) to UART0_RX.
+Reconnect U2 pin 38 from unconnected-(U2-VDD-Pad38) to +3.3V.
+Reconnect U2 pin 63 from unconnected-(U2-RPB13/PWM8H/PWM2L/CTPLS/PMD3/RB13-Pad63) to UART2_RX.
+Add net I2C2_SCL.
+Reconnect U2 pin 5 from unconnected-(U2-AN18/CVD18/RPG7/PMA4/RG7-Pad5) to I2C2_SCL.
+Reconnect U2 pin 41 from unconnected-(U2-VSS-Pad41) to GND.
+Add net ICSPDAT.
+Reconnect U2 pin 18 from unconnected-(U2-PGD1/OA1IN-/AN5/CTCMP/C1IN1-/RTCC/RPB3/RB3-Pad18) to ICSPDAT.
+Reconnect U2 pin 2 from unconnected-(U2-RPB14/PWM1H/VBUSON1/PMD6/RB14-Pad2) to I2C1_SDA.
+Reconnect U2 pin 46 from unconnected-(U2-OA5OUT/AN25/CVD25/C5IN4-/RPB7/SCK1/INT0/RB7-Pad46) to SPI1_SCK.
+Add net ETH_INT.
+Reconnect U2 pin 42 from unconnected-(U2-RD8-Pad42) to ETH_INT.
+Reconnect U2 pin 61 from unconnected-(U2-RPB11/PWM9H/PWM3L/PMD1/RB11-Pad61) to UART3_RX.
+Add net SPI2_MISO.
+Reconnect U2 pin 39 from unconnected-(U2-OSCI/CLKI/AN49/CVD49/RPC12/RC12-Pad39) to SPI2_MISO.
+Add net CANB_RX.
+Reconnect U2 pin 51 from unconnected-(U2-TRD0/RPC7/PWM12H/PWM6L/RC7-Pad51) to CANB_RX.
+Add net CANA_RX.
+Reconnect U2 pin 53 from unconnected-(U2-TRD2/RPD5/PWM12H/PMRD/RD5-Pad53) to CANA_RX.
+Reconnect U2 pin 56 from unconnected-(U2-VSS-Pad56) to GND.
+Reconnect U2 pin 9 from unconnected-(U2-VSS-Pad9) to GND.
+Reconnect U2 pin 31 from unconnected-(U2-TDI/DAC3/AN26/CVD26/RPA8/PMA9/RA8-Pad31) to UART1_TX.
+Add net MCLR.
+Reconnect U2 pin 7 from unconnected-(U2-MCLR-Pad7) to MCLR.
+Add net SPI2_CS.
+Reconnect U2 pin 43 from unconnected-(U2-PGD2/RPB5/USBID1/RB5-Pad43) to SPI2_CS.
+Reconnect U2 pin 47 from unconnected-(U2-SOSCI/RPC13/RC13-Pad47) to SPI1_CS.
+Add net CANB_TX.
+Reconnect U2 pin 52 from unconnected-(U2-TRD1/RPC8/PWM5H/PMWR/RC8-Pad52) to CANB_TX.
+Reconnect U2 pin 62 from unconnected-(U2-RPB12/PWM2H/PMD2/RB12-Pad62) to UART3_TX.
+Reconnect U2 pin 48 from unconnected-(U2-SOSCO/RPB8/RB8-Pad48) to LDAC.
+Reconnect CR2 pin 2 from GND to Net-(U6-GND).
+Add net Net-(U18-GND).
+Add CR3 (footprint 'footprints:SOT666_ESDA25_STM').
+Add U5 (footprint 'Package_QFP:LQFP-48_7x7mm_P0.5mm').
+Add net ICSPCLK.
+Change U6 value from RS-232 0 to RS-232 A.
+Reconnect U6 pin 5 from GND to Net-(U6-GND).
+Add net Chassis.
+Reconnect U6 pin SH2 from GND to Chassis.
+Reconnect U6 pin SH1 from GND to Chassis.
+Add CR5 (footprint 'footprints:SOT666_ESDA25_STM').
+Reconnect U7 pin 10 from +12V to +VDC.
+Add D2 (footprint 'footprints:SOT95P237X112-3N').
+Add D11 (footprint 'footprints:SOT95P237X112-3N').
+Add D14 (footprint 'DIOM5436X265N').
+Add D15 (footprint 'footprints:LED_LTST-C170GKT').
+Add net Net-(U20-A).
+Add U12 (footprint 'footprints:SOD-123_ONS').
+Reconnect FL1 pin 3 from /RS-485B/B to Net-(U20-A).
+Add net Net-(U20-B).
+Add U14 (footprint 'footprints:SOIC127P1150X280-8N').
+Reconnect FL1 pin 2 from /RS-485B/A to Net-(U20-B).
+Add U15 (footprint 'footprints:SOIC127P1150X280-8N').
+Add net Net-(U20-Z).
+Reconnect FL2 pin 3 from /RS-485B/Z to Net-(U20-Z).
+Add U17 (footprint 'Converter_DCDC:Converter_DCDC_TRACO_TEA1-xxxxHI_THT').
+Add net Net-(U20-Y).
+Change U18 value from RS-232 2 to RS-232 B.
+Reconnect U18 pin SH1 from GND to Chassis.
+Reconnect U18 pin 5 from GND to Net-(U18-GND).
+Reconnect U18 pin SH2 from GND to Chassis.
+Reconnect FL2 pin 2 from /RS-485B/Y to Net-(U20-Y).
+Add U19 (footprint 'footprints:ASSMANN_A-DS_09_A_KG-T2S').
+Add net Net-(U19-A).
+Add U20 (footprint 'footprints:ASSMANN_A-DS_09_A_KG-T2S').
+Reconnect FL3 pin 3 from /RS-485A/B to Net-(U19-A).
+Reconnect U21 pin 8 from +12V to +VDC.
+Add net Net-(U19-B).
+Add U22 (footprint 'Converter_DCDC:Converter_DCDC_TRACO_TEA1-xxxxHI_THT').
+Reconnect FL3 pin 2 from /RS-485A/A to Net-(U19-B).
+Add U24 (footprint 'footprints:ASSMANN_A-DS_09_A_KG-T2S').
+Add net Net-(U19-Z).
+Add U25 (footprint 'footprints:ASSMANN_A-DS_09_A_KG-T2S').
+Reconnect via from +12V to +VDC.
+Reconnect via from +12V to +VDC.
+Reconnect via from /RS-485B/A to Net-(U20-B).
+Reconnect via from /RS-485B/B to Net-(U20-A).
+Warning: No net found for component PS1 pad 4_4 (no pin 4_4 in symbol).
+Warning: No net found for component PS1 pad 4_1 (no pin 4_1 in symbol).
+Warning: No net found for component PS1 pad 5_3 (no pin 5_3 in symbol).
+Warning: No net found for component PS1 pad 5_5 (no pin 5_5 in symbol).
+Warning: Warning: Q1 footprint 'AOD407' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Warning: Warning: C33 footprint 'R18' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Warning: No net found for component U2 pad 55 (no pin 55 in symbol).
+Warning: No net found for component PS1 pad 5_2 (no pin 5_2 in symbol).
+Warning: No net found for component PS1 pad 4_2 (no pin 4_2 in symbol).
+Warning: No net found for component PS1 pad 4_6 (no pin 4_6 in symbol).
+Warning: No net found for component PS1 pad 4_5 (no pin 4_5 in symbol).
+Warning: No net found for component PS1 pad 5_6 (no pin 5_6 in symbol).
+Warning: No net found for component PS1 pad 5_4 (no pin 5_4 in symbol).
+Warning: No net found for component PS1 pad 5_1 (no pin 5_1 in symbol).
+Warning: Warning: D14 footprint 'DIOM5436X265N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Warning: No net found for component PS1 pad 4_3 (no pin 4_3 in symbol).
+Error: Cannot add C32 (footprint 'CL31A106KBHNNNE:CAPC3216X180N' not found).
+Error: Cannot add C35 (footprint '1206B103K500CT:CAPC3216X90N' not found).
+Error: Cannot add F1 (footprint '0ZRE0200FF1A:FUSRR1020W81L2490T610H3380' not found).
+Error: Cannot add C38 (footprint 'CL10A475KP8NNNC:CAPC1608X90N' not found).
+Error: Cannot add C34 (footprint '1206B103K500CT:CAPC3216X90N' not found).
+Error: Cannot add C31 (footprint 'CL31A106KBHNNNE:CAPC3216X180N' not found).
+Error: Cannot add E1 (footprint 'HI1206P121R-10:FB_HI1206P121R-10' not found).
+
+
+Info: Total warnings: 16, errors: 7.

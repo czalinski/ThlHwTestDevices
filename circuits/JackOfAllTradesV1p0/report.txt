@@ -1,0 +1,137 @@
+Info: Processing symbol 'C1:footprints:CAP_CA0612_3P2X1P6_YAG'.
+Info: Processing symbol 'C2:1206B103K500CT:CAPC3216X90N'.
+Info: Processing symbol 'U16:footprints:SOIC14-N_MC_MCH'.
+Info: Processing symbol 'C3:footprints:CAPC1608X90N'.
+Info: Processing symbol 'C4:footprints:CAP_CA0612_3P2X1P6_YAG'.
+Info: Processing symbol 'C7:footprints:CAP_YX_8X11P5_RUB'.
+Info: Processing symbol 'C8:footprints:CAP_YX_8X11P5_RUB'.
+Info: Processing symbol 'C9:footprints:CAPC2012X70'.
+Info: Processing symbol 'C10:footprints:CAPC2012X70'.
+Info: Processing symbol 'C11:footprints:CAPC2012X70'.
+Info: Processing symbol 'C12:footprints:CAPC2012X70'.
+Info: Processing symbol 'C15:footprints:CAPC2012X70'.
+Info: Processing symbol 'C16:footprints:CAPC3216X95N'.
+Info: Processing symbol 'C17:footprints:CAPC2012X70'.
+Info: Processing symbol 'C18:footprints:CAPC2012X70'.
+Info: Processing symbol 'C19:footprints:CAPC2012X140N'.
+Info: Processing symbol 'C20:footprints:CAPC2012X70'.
+Info: Processing symbol 'C21:footprints:CAPC3216X95N'.
+Info: Processing symbol 'C22:footprints:CAPC2012X70'.
+Info: Processing symbol 'C23:footprints:CAPC2012X70'.
+Info: Processing symbol 'C24:footprints:CAPC2012X70'.
+Info: Processing symbol 'C25:footprints:CAPC3216X95N'.
+Info: Processing symbol 'C26:footprints:CAPC2012X70'.
+Info: Processing symbol 'C27:footprints:CAPC2012X70'.
+Info: Processing symbol 'C28:footprints:CAPC3216X95N'.
+Info: Processing symbol 'CR1:footprints:SO-8_STM'.
+Info: Processing symbol 'CR2:SOT666_ESDA25_STM'.
+Info: Processing symbol 'U18:footprints:ASSMANN_A-DS_09_A_KG-T2S'.
+Info: Processing symbol 'U21:footprints:SOIC8_ONS'.
+Info: Processing symbol 'CR4:footprints:SO-16_STM'.
+Info: Processing symbol 'D1:Diode_SMD:D_SOD-123F'.
+Info: Processing symbol 'D2:Diode_SMD:D_SOD-123F'.
+Info: Processing symbol 'D3:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D4:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D5:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D6:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D7:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D8:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D9:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D10:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D11:Diode_SMD:D_SOD-123F'.
+Info: Processing symbol 'D12:Diode_SMD:D_SOD-123F'.
+Info: Processing symbol 'D13:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D16:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D17:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D18:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D19:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D20:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D21:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D22:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D23:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D24:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D25:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D26:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D27:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D28:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D29:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D30:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D31:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D32:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'D33:footprints:LED_LTST-C170GKT'.
+Info: Processing symbol 'FL1:footprints:WCM 3216F2SF-900T04-1206'.
+Info: Processing symbol 'FL2:footprints:WCM 3216F2SF-900T04-1206'.
+Info: Processing symbol 'FL3:footprints:WCM 3216F2SF-900T04-1206'.
+Info: Processing symbol 'FL4:footprints:WCM 3216F2SF-900T04-1206'.
+Info: Processing symbol 'J3:footprints:CONN_1989803_PXC'.
+Info: Processing symbol 'J4:footprints:CONN_1989803_PXC'.
+Info: Processing symbol 'J5:footprints:CONN_1989803_PXC'.
+Info: Processing symbol 'J6:footprints:CONN_1989803_PXC'.
+Info: Processing symbol 'J7:footprints:TE_1985218'.
+Info: Processing symbol 'J8:PinHeader:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'J9:1990038:PHOENIX_1990038'.
+Info: Processing symbol 'J10:1990038:PHOENIX_1990038'.
+Info: Processing symbol 'J13:footprints:CUI_TB005-762-02BE'.
+Info: Processing symbol 'J14:footprints:CONN_1989803_PXC'.
+Info: Processing symbol 'J16:PinHeader:PinHeader_1x02_P2.54mm_Horizontal'.
+Info: Processing symbol 'JP2:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'JP3:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'JP4:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'JP5:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'JP6:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'JP7:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'PS1:TPSM84338RCJR:CONV_TPSM84338RCJR'.
+Info: Processing symbol 'R1:footprints:RESCAV80P320X160X70-8N'.
+Info: Processing symbol 'R2:footprints:RESCAV80P320X160X70-8N'.
+Info: Processing symbol 'R3:footprints:RES_1206'.
+Info: Processing symbol 'R4:footprints:RES_1206'.
+Info: Processing symbol 'R5:footprints:RES_1206'.
+Info: Processing symbol 'R6:footprints:RESCAV80P320X160X70-8N'.
+Info: Processing symbol 'R7:footprints:RESCAV80P320X160X70-8N'.
+Info: Processing symbol 'R8:footprints:RESCAV80P320X160X70-8N'.
+Info: Processing symbol 'R9:footprints:RES_1206'.
+Info: Processing symbol 'R10:footprints:RES_1206'.
+Info: Processing symbol 'R11:footprints:RES_1206'.
+Info: Processing symbol 'R12:footprints:RES_1206'.
+Info: Processing symbol 'R13:footprints:RES_1206'.
+Info: Processing symbol 'R14:footprints:RESCAV80P320X160X70-8N'.
+Info: Processing symbol 'R15:footprints:RES_1206'.
+Info: Processing symbol 'R16:footprints:RES_1206'.
+Info: Processing symbol 'R17:footprints:RES_1206'.
+Info: Processing symbol 'RN1:footprints:RESCAXS50P200X100X55-8N'.
+Info: Processing symbol 'RN2:footprints:RESCAXS50P200X100X55-8N'.
+Info: Processing symbol 'RN3:footprints:RESCAXS50P200X100X55-8N'.
+Info: Processing symbol 'RN5:footprints:RESCAXS50P200X100X55-8N'.
+Info: Processing symbol 'RN6:footprints:RESCAXS50P200X100X55-8N'.
+Info: Processing symbol 'RN7:footprints:RESCAXS50P200X100X55-8N'.
+Info: Processing symbol 'RN8:footprints:RESCAXS50P200X100X55-8N'.
+Info: Processing symbol 'TP2:footprints:KEYSTONE_4954_Slot'.
+Info: Processing symbol 'TP3:footprints:KEYSTONE_4954_Slot'.
+Info: Processing symbol 'TP4:footprints:KEYSTONE_4954_Slot'.
+Info: Processing symbol 'U1:footprints:WizNetPico_OnBoard'.
+Info: Processing symbol 'U3:Converter_DCDC:Converter_DCDC_TRACO_TEA1-xxxxHI_THT'.
+Info: Processing symbol 'U4:Converter_DCDC:Converter_DCDC_TRACO_TEA1-xxxxHI_THT'.
+Info: Processing symbol 'U6:footprints:ASSMANN_A-DS_09_A_KG-T2S'.
+Info: Processing symbol 'U7:Package_SO:SOIC-18W_7.5x11.6mm_P1.27mm'.
+Info: Processing symbol 'U8:footprints:SOIC127P1030X265-28N'.
+Info: Processing symbol 'U9:footprints:SOIC14-N_MC_MCH'.
+Info: Processing symbol 'U10:tootprints:SOBWSOP-16-A_TPK'.
+Info: Processing symbol 'U11:tootprints:SOBWSOP-16-A_TPK'.
+Info: Processing symbol 'U13:footprints:SOT-23_OT&amp;slash_OTY_MCH'.
+Remove CR2 'Do not place' fabrication attribute.
+Warning: Warning: CR2 footprint 'SOT666_ESDA25_STM' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Warning: No net found for component R6 pad 6 (no pin 6 in symbol).
+Warning: No net found for component R6 pad 7 (no pin 7 in symbol).
+Warning: No net found for component R6 pad 5 (no pin 5 in symbol).
+Warning: No net found for component R6 pad 3 (no pin 3 in symbol).
+Warning: No net found for component R6 pad 8 (no pin 8 in symbol).
+Warning: No net found for component R6 pad 4 (no pin 4 in symbol).
+Error: Cannot add C2 (footprint '1206B103K500CT:CAPC3216X90N' not found).
+Error: Cannot add J9 (footprint '1990038:PHOENIX_1990038' not found).
+Error: Cannot add J10 (footprint '1990038:PHOENIX_1990038' not found).
+Error: Cannot add U10 (footprint 'tootprints:SOBWSOP-16-A_TPK' not found).
+Error: Cannot add PS1 (footprint 'TPSM84338RCJR:CONV_TPSM84338RCJR' not found).
+Error: Cannot add U11 (footprint 'tootprints:SOBWSOP-16-A_TPK' not found).
+
+
+Info: Total warnings: 7, errors: 6.

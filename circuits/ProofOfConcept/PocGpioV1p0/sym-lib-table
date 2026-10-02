@@ -1,0 +1,10 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "MCU") (type "KiCad") (uri "C:/git/ThlHwTestDevices/KiCad/symbols/MCU.kicad_sym") (options "") (descr ""))
+	(lib (name "4954") (type "KiCad") (uri "C:/git/ThlHwTestDevices/KiCad/symbols/4954.kicad_sym") (options "") (descr ""))
+	(lib (name "MyFavorites") (type "KiCad") (uri "C:/git/ThlHwTestDevices/KiCad/symbols/MyFavorites.kicad_sym") (options "") (descr ""))
+	(lib (name "StandardSMD") (type "KiCad") (uri "C:/git/ThlHwTestDevices/KiCad/symbols/StandardSMD.kicad_sym") (options "") (descr ""))
+	(lib (name "1990038") (type "KiCad") (uri "C:/git/ThlHwTestDevices/KiCad/symbols/1990038.kicad_sym") (options "") (descr ""))
+	(lib (name "Mechanical") (type "KiCad") (uri "C:/git/ThlHwTestDevices/KiCad/symbols/Mechanical.kicad_sym") (options "") (descr ""))
+	(lib (name "PIC32MK1024MCF064‑IPT") (type "KiCad") (uri "C:/git/ThlHwTestDevices/KiCad/symbols/PIC32MK1024MCF064‑IPT.kicad_sym") (options "") (descr ""))
+)

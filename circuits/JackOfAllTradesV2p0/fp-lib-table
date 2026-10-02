@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "footprints") (type "KiCad") (uri "C:/git/ThlHwTestDevices/KiCad/footprints") (options "") (descr ""))
+	(lib (name "PinHeader") (type "KiCad") (uri "C:/git/ThlHwTestDevices/KiCad/footprints/PinHeader.pretty") (options "") (descr ""))
+	(lib (name "MyFavorites") (type "KiCad") (uri "C:/git/ThlHwTestDevices/KiCad/footprints/MyFavorites.pretty") (options "") (descr ""))
+)

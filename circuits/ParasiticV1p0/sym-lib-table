@@ -1,0 +1,11 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "MyFavorites") (type "KiCad") (uri "C:/git/ThlHwTestDevices/KiCad/symbols/MyFavorites.kicad_sym") (options "") (descr ""))
+	(lib (name "PIC16F17144") (type "KiCad") (uri "C:/git/ThlHwTestDevices/KiCad/symbols/PIC16F17144.kicad_sym") (options "") (descr ""))
+	(lib (name "INA181A1IDBVR") (type "KiCad") (uri "C:/git/ThlHwTestDevices/KiCad/symbols/INA181A1IDBVR.kicad_sym") (options "") (descr ""))
+	(lib (name "ResArrayX4") (type "KiCad") (uri "C:/git/ThlHwTestDevices/KiCad/symbols/ResArrayX4.kicad_sym") (options "") (descr ""))
+	(lib (name "CapArrayX4") (type "KiCad") (uri "C:/git/ThlHwTestDevices/KiCad/symbols/CapArrayX4.kicad_sym") (options "") (descr ""))
+	(lib (name "YC124-JR-071KL") (type "KiCad") (uri "C:/git/ThlHwTestDevices/KiCad/symbols/YC124-JR-071KL.kicad_sym") (options "") (descr ""))
+	(lib (name "GRM32EC81C476KE15K") (type "KiCad") (uri "C:/git/ThlHwTestDevices/KiCad/symbols/GRM32EC81C476KE15K.kicad_sym") (options "") (descr ""))
+	(lib (name "GRM1555C1H220JA01D") (type "KiCad") (uri "C:/git/ThlHwTestDevices/KiCad/symbols/GRM1555C1H220JA01D.kicad_sym") (options "") (descr ""))
+)
