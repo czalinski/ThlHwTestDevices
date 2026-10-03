@@ -192,3 +192,10 @@ stored in EEPROM.
 * Fix the DS3231 symbol pin names (pin graphics are right; names were copied
   from the SD-card symbol).
 * C3 = 22 µF.
+
+## License
+
+The design files, firmware and documentation are released under the
+[MIT License](../../LICENSE). The bundled FatFs library in
+`firmware/lib/fatfs` keeps its own BSD-style license
+([LICENSE.txt](firmware/lib/fatfs/LICENSE.txt)).
